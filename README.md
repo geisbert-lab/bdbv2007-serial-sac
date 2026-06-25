@@ -4,7 +4,7 @@
  
 ## Data availability
 
-Raw Nanostring RCC files are available via NCBI GEO (ACCESSION PENDING). Nanostring thresholded count matrices are available via NCBI GEO or in [`data.xlsx`](data.xlsx).
+Raw Nanostring RCC files are available via NCBI GEO ([GSE336667](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?&acc=GSE336667)). Nanostring thresholded count matrices are available via NCBI GEO or in [`data.xlsx`](data.xlsx).
 
 Estimated protein concentrations from LEGENDplex assays are in [`data.xlsx`](data.xlsx).
 
