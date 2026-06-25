@@ -1,5 +1,7 @@
 # Targeted transcriptomic and proteomic analyses for *Pathogenesis and natural history of the Bundibugyo species of Orthoebolavirus in nonhuman primates*
 
+[![DOI](https://zenodo.org/badge/1279712647.svg)](https://doi.org/10.5281/zenodo.20877868)
+
 > Manuscript not yet published; under peer review.
  
 ## Data availability
