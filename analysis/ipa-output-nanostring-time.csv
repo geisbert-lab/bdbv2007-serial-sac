@@ -1,0 +1,1286 @@
+﻿Name,Succumbed.Early,Survived.Early,Succumbed.Middle,Survived.Middle,Succumbed.Late,Survived.Late
+Abdominal cancer,-0.177,-0.254,-0.219,-0.763,-1.506,-1.267
+Abdominal carcinoma,-0.898,-0.204,0.27,-0.082,-1.005,-1.625
+Abdominal lesion,,,1.565,,,
+Abnormal abdomen morphology,,,,1.404,1.719,1.498
+Abnormal morphology of abdomen,0.218,-0.132,1.767,1.781,2.186,1.865
+Abnormal morphology of B lymphocytes,,,1.508,,1.764,1.268
+Abnormal morphology of body cavity,0.213,,2.089,2.002,2.301,1.252
+Abnormal morphology of immune system,,,1.913,2.975,2.737,
+Abnormal morphology of leukocytes,0.152,,1.913,2.975,2.737,2.145
+Abnormal morphology of lymphocytes,,,1.859,2.433,2.549,1.95
+Abnormal morphology of lymphoid organ,,,0.384,0.765,0.903,1.2
+Abnormal morphology of mononuclear leukocytes,,,1.859,2.433,2.549,1.95
+Abnormal morphology of skin,,,-1.195,-1.195,-0.44,
+Abnormal morphology of T lymphocytes,,,1.602,1.534,1.766,1.794
+Abnormal morphology of thoracic cavity,,,,,1.273,
+Abnormal morphology of thorax,,,,,1.273,
+Abnormality of heart ventricle,,,,,,1.598
+Abnormality of large intestine,-1.795,-0.686,-1.56,-1.921,-0.828,-1.034
+Abnormality of left ventricle,,,,,,1.041
+Abnormality of thymus gland,,,-0.655,,-1.331,-1.21
+Accumulation of antigen presenting cells,1.41,1.114,2.363,2.26,,1.758
+Accumulation of cells,,0.359,2.148,1.861,0.7,-0.197
+Accumulation of granulocytes,,0.221,2.84,1.832,1.282,0.19
+Accumulation of leukocytes,-0.312,0.077,1.885,1.396,0.516,-0.425
+Accumulation of lymphocytes,,,0.164,-0.401,-0.505,-1.94
+Accumulation of lymphoid cells,,,0.164,-0.401,-0.505,-1.94
+Accumulation of macrophages,1.114,,2.441,2.362,,
+Accumulation of mononuclear leukocytes,,,0.095,-0.369,-0.305,-1.529
+Accumulation of myeloid cells,0.784,0.902,2.887,2.634,1.588,1.076
+Accumulation of neutrophils,,,3.388,2.447,1.999,1.242
+Accumulation of phagocytes,0.764,0.884,3.475,3.038,2.025,2.104
+Accumulation of T lymphocytes,,,-0.242,-0.651,-0.77,-1.476
+Acetylcholine Receptor Signaling Pathway,,,-1.89,,,
+Activation of antigen presenting cells,3.066,2.75,3.163,2.376,2.303,1.342
+Activation of B lymphocytes,,0.218,0.295,1.551,-1.086,-0.63
+Activation of blood cells,,,2.232,,0.181,0.466
+Activation of CD4+ T-lymphocytes,-0.128,,-0.581,-0.327,-2.596,-1.612
+Activation of cells,2.861,2.066,2.67,2.536,0.418,0.505
+Activation of connective tissue cells,1.118,0.063,1.393,1.528,0.104,0.037
+Activation of cytotoxic T cells,,,,,0.249,1.062
+Activation of dendritic cells,2.418,1.969,2.298,2.198,1.147,0.576
+Activation of endothelial cells,1.216,,,,,
+Activation of gene,2.962,2.964,1.826,1.184,-0.559,-0.496
+Activation of granulocytes,,,2.295,0.957,2.229,1.294
+Activation of innate lymphoid cells,,,1.387,0.042,0.577,0.971
+Activation of interferon-stimulated response element,2.611,2.416,,3.272,,
+Activation of IRF by Cytosolic Pattern Recognition Receptors,2.449,2.449,1.732,1.89,1.667,1.89
+Activation of leukocytes,2.867,2.351,1.978,1.871,0.123,0.463
+Activation of liver cells,2.236,,,,,
+Activation of lymphatic system cells,1.983,,0.668,0.752,-1.053,0.016
+Activation of lymphocytes,1.983,1.428,0.636,0.645,-1.052,0.016
+Activation of macrophages,2.396,1.937,3.048,1.848,2.481,1.409
+Activation of microglia,1.977,1.067,2.992,2.557,1.487,1.268
+Activation of mononuclear leukocytes,2.211,,0.732,0.838,-0.983,-0.177
+Activation of myeloid cells,2.586,1.964,3.154,2.125,2.81,1.348
+Activation of natural killer cells,1.912,1,0.943,-0.116,0.347,0.715
+Activation of neuroglia,1.71,0.739,3.044,2.561,1.326,1.029
+Activation of neutrophils,,,2.631,,2.556,1.709
+Activation of NFkB binding site,2.185,,2.473,2.978,0.27,0.712
+Activation of PBMCs,-0.6,,-1.934,-1.718,-2.446,-3.116
+Activation of pericytes,1.964,,,,,
+Activation of peripheral blood leukocytes,,,-1.724,-1.414,,
+Activation of peripheral blood lymphocytes,,,,,-2.265,-2.797
+Activation of phagocytes,3.066,2.573,3.068,2.381,2.65,1.263
+Activation of protein binding site,2.692,1.725,1.578,1.48,-0.476,-0.366
+Activation of regulatory T lymphocytes,,,,,,-1.913
+Activation of response element,2.49,2.423,2.24,2.277,0.44,0.548
+Activation of synthetic promoter,2.488,2.46,1.314,1.261,-0.61,-0.299
+Activation of T lymphocytes,1.311,0.819,-0.22,-0.011,-1.461,-0.852
+Activin Inhibin Signaling Pathway,2.236,,2.041,1.807,0.535,-0.302
+Acute disease,0.028,-0.59,2.602,2.855,0.426,1.714
+Acute lung injury,,,,1.567,,
+Acute Myeloid Leukemia Signaling,,,-1.667,-1.633,-1.633,-1.342
+Acute Phase Response Signaling,0.816,,2.236,1.508,0.577,0.632
+Acute respiratory disorder,,,2.065,1.431,1.387,1.446
+Adaptive immune response,,,1.616,,,1
+Adenocarcinoma,,,0.106,0.411,-0.365,-1.126
+Adhesion of blood cells,,,2.627,,1.132,0.112
+Adhesion of granulocytes,,,2.44,2.321,1.672,0.742
+Adhesion of immune cells,1.161,,2.31,0.945,0.588,-0.507
+Adhesion of lymphocytes,,,1.255,-0.108,0.037,
+Adhesion of mononuclear leukocytes,,,1.849,0.543,0.5,
+Adhesion of myeloid cells,1.185,,2.727,2.415,1.862,0.471
+Adhesion of neutrophils,,,2.308,2.192,,
+Adhesion of phagocytes,,,2.31,2.032,,
+Adrenergic Receptor Signaling Pathway (Enhanced),,,-1.134,,0,-1.342
+Adrenomedullin signaling pathway,,,1,1,0,0
+Advanced extracranial solid tumor,0.541,,2.742,,2.004,0.681
+Advanced malignant solid tumor,,,2.292,0.865,1.195,0.593
+Advanced malignant tumor,,,2.306,1.089,0.575,-0.352
+Aggregation of cells,,,2.459,,,
+Airway hyperresponsiveness,1.026,0.152,2.488,1.004,,
+Allergy,,,1.393,-0.085,0.046,-0.183
+Angiogenesis,-0.403,,-0.084,-0.332,-1.317,-2.029
+Antibacterial response,,,1.567,,0.655,0.655
+Antibody response,,,0.459,-0.416,-1.738,-1.61
+Antigen presentation,,,1.065,0,0.247,
+Antigen Presentation Pathway,2,,0.277,1.414,-1,-1.414
+Antimicrobial peptides,,,1.342,,2.236,2.236
+Antimicrobial response,2.69,2.507,3.786,3.496,2.938,3.013
+Antioxidant Action of Vitamin C,,,-1.633,,,
+Antiproliferative Role of TOB in T Cell Signaling,,,,,1.633,
+Anti-tumor response,2,,,,,
+Antiviral response,2.365,2.508,2.978,2.78,2.435,2.521
+Antiviral response of cells,0.943,1.069,,,,0.766
+Apelin Endothelial Signaling Pathway,,,0,,-1,
+Apoptosis,1.236,2.004,1.598,1.461,1.36,2.405
+Apoptosis of activated T lymphocyte,1.452,1.452,,,,
+Apoptosis of antigen presenting cells,,,2.522,2.726,2.495,2.464
+Apoptosis of beta islet cells,1.193,,,,,
+Apoptosis of B-lymphocyte derived cell lines,1.234,,1.858,,,
+Apoptosis of bone cancer cell lines,2.395,2.153,,,,
+Apoptosis of bone marrow cells,0.359,1.125,,,,
+Apoptosis of breast cancer cell lines,1.294,2.109,,,,
+Apoptosis of cancer cells,1.695,1.64,1.111,1.405,1.647,1.584
+Apoptosis of carcinoma cell lines,0.471,1.103,,,,1.337
+Apoptosis of cervical cancer cell lines,1.987,1.809,,,,
+Apoptosis of colorectal cancer cell lines,,1.386,,,,
+Apoptosis of connective tissue cells,1.9,1.607,,0.371,,1.041
+Apoptosis of dendritic cells,1.958,,1.919,,1.258,
+Apoptosis of embryonic cell lines,1.562,2.527,2.269,1.255,,
+Apoptosis of epithelial cells,1.884,1.964,1.619,2.389,2.347,1.531
+Apoptosis of fibroblast cell lines,,2.336,,,,
+Apoptosis of fibroblasts,,2.166,,,,
+Apoptosis of fibrosarcoma cell lines,1.934,1.934,,,,
+Apoptosis of gastrointestinal cells,,,,,1.88,
+Apoptosis of hematopoietic progenitor cells,2.399,2.19,,0.014,,
+Apoptosis of hepatocytes,2.575,2.168,1.298,,,
+Apoptosis of hepatoma cell lines,,2.174,,,,
+Apoptosis of HUVEC cells,2.177,,,,,
+Apoptosis of leukemia cell lines,1.436,0.876,1.217,-0.416,1.254,0.417
+Apoptosis of leukocyte cell lines,1.736,2.191,1.326,0.501,0.41,0.379
+Apoptosis of leukocytes,1.329,1.452,1.266,0.499,1.744,1.949
+Apoptosis of liver cells,2.904,2.376,1.577,2.708,,
+Apoptosis of lymphatic system cells,0.819,1.667,0.704,-0.688,2.063,1.795
+Apoptosis of lymphocytes,0.992,1.581,0.66,-0.579,1.827,1.653
+Apoptosis of lymphoid organ,1.28,1.454,0.121,-1.645,0.581,0.447
+Apoptosis of lymphoma cell lines,1.333,1.918,1.363,-0.462,2.257,1.987
+Apoptosis of macrophages,2.012,2.19,2.533,2.202,2.8,
+Apoptosis of microglia,2,,,,,
+Apoptosis of monocyte-derived macrophages,1.091,,,,,
+Apoptosis of mononuclear leukocytes,,,0.493,-0.969,1.682,1.475
+Apoptosis of muscle cells,1.948,,,,,
+Apoptosis of myeloid cells,1.403,1.49,1.625,1.276,1.556,1.576
+Apoptosis of neuroglia,2.201,,,,,
+Apoptosis of ovarian follicle,-1.701,,,,,
+Apoptosis of pericytes,1.934,,,,,
+Apoptosis of phagocytes,1.203,1.317,1.39,1.371,1.1,1.363
+Apoptosis of prostate cancer cell lines,,1.866,,,,
+Apoptosis of sarcoma cell lines,2.752,2.554,2.112,1.437,,
+Apoptosis of somatic cells,1.692,1.801,1.488,1.274,2.321,2.237
+Apoptosis of splenocytes,,,0.059,-1.528,,
+Apoptosis of T lymphocytes,2.263,2.076,0.344,-0.62,1.068,0.494
+Apoptosis of thymocytes,2.216,1.984,,,,
+Apoptosis of tumor cell lines,1.127,1.586,1.722,1.267,1.346,1.727
+Apoptosis of tumor cells,1.858,1.823,1.063,1.641,1.946,1.941
+Apoptosis of vascular cells,1.676,,,1.662,,
+Apoptosis of vascular endothelial cells,1.373,0.774,,,,
+Apoptosis of vascular smooth muscle cells,1.969,,,,,
+Apoptosis Signaling,,,1,0,1,
+April Mediated Signaling,,,-1.633,,-2.449,
+Arterial lesion,-0.369,,1.099,,0.192,-0.052
+Aryl Hydrocarbon Receptor Signaling,,,0,-1,,
+Assembly of protein-protein complex,1.546,1.432,,1.139,,
+Association of protein,1.342,1.103,,,,
+Asthma,,,1.97,0.707,0.378,0.816
+Atherosclerosis,,,1.846,,1.086,1.357
+Atherosclerosis Signaling,,,1.387,1,1.414,0.707
+Atherosclerotic lesion,,,1.481,,0.71,1.269
+Atopy,,,,,1,0.816
+Attraction of leukocytes,,,,,3.088,
+Attraction of mononuclear leukocytes,,,,1.479,,
+Autism Signaling Pathway,2.236,,0.832,1.89,0,0.333
+Autoimmune neuropathy,,,1.89,,,
+Autophagy of cells,,1.627,,3.403,,
+B Cell Activating Factor Signaling,,,-1.134,,-1.342,
+B Cell Receptor Signaling,,,-1.604,-0.447,-2.309,-2.121
+BBSome Signaling Pathway,,,0.302,-0.707,-1.134,-1.342
+B-cell lymphoma,,,1.36,,,
+Benign lesion,-1.342,,,0.759,,0.666
+Benign thyroid disease,,,,,1.184,
+Benign Tumors,-2,,,0.263,,0.576
+BEX2 Signaling Pathway,,,-1.414,,-2.236,
+Binding of blood cells,,,2.323,1.262,0.837,0.069
+Binding of DNA,0.774,0.667,0.782,0.196,-1.091,-0.198
+Binding of endothelial cells,,-1.014,2.149,0.662,0.322,-0.293
+Binding of gene,2.049,1.67,1.174,0.653,0.079,0.481
+Binding of granulocytes,,,3.016,2.475,1.653,0.579
+Binding of interferon-gamma activated sequence,-0.277,,,-0.723,,-1.526
+Binding of leukemia cell lines,,,1.607,1.151,1.629,0.983
+Binding of leukocytes,,,2.146,0.989,0.499,-0.406
+Binding of lymphatic system cells,,,1.135,0.014,0.147,-0.517
+Binding of lymphocytes,,,1.204,-0.092,-0.204,-1.245
+Binding of mononuclear leukocytes,,,1.821,0.605,0.297,-0.564
+Binding of myeloid cells,1.001,,3.209,2.634,1.726,0.413
+Binding of neutrophils,,,2.906,2.345,1.929,1.021
+Binding of phagocytes,,,2.808,,,
+Binding of professional phagocytic cells,,,2.962,2.06,1.412,-0.041
+Binding of protein binding site,0.3,0.378,0.154,-0.084,-1.732,-1.426
+Binding of somatic cells,1.559,,1.888,1.028,0.509,0.221
+Binding of T lymphocytes,,,1.058,-0.245,-0.119,-0.715
+Binding of tumor cell lines,1.883,,2.497,1.943,0.409,-0.332
+Binding of vascular endothelial cells,,,2.039,,,
+Biosynthesis of amide,1.638,1.31,,,,
+Biosynthesis of carboxylic acid,2.099,1.109,2.394,2.59,0.808,0.791
+Biosynthesis of polyunsaturated fatty acids,,,,2.572,,
+Biosynthesis of reactive oxygen species,,,,1.324,,
+Breast Cancer Regulation by Stathmin1,,,-0.302,-1,-1.134,-1.633
+Breast or colorectal cancer,-1.154,,0.229,-0.931,-0.717,-1.004
+Breast or ovarian neoplasm,,,1.558,,0.509,-0.623
+Cachexia Signaling Pathway,3,2.449,3.657,2.236,1.964,1.807
+Calcinosis,,,,,,1
+Calcium-induced T Lymphocyte Apoptosis,,,-2.121,-1.342,-2.828,-2
+Cancer,-0.118,0.094,1.105,0.456,0.33,-0.791
+Cancer of cells,-0.99,-0.292,1.599,-0.005,1.346,-0.318
+Cancer of head,-1.165,,,,,
+Cancer of secretory structure,,,-1.536,-0.818,-1.432,-1.154
+Carcinoma,-1.406,-0.776,-0.278,-0.34,-0.53,-1.373
+Cardiac Hypertrophy Signaling (Enhanced),,,1.633,0.535,-0.5,-1.155
+Cardiac Valve Formation Signaling Pathway,,,-1.342,,-2.236,-2.449
+Cardiomyopathy,-0.138,,1.854,0.789,1.46,1.028
+Cargo recognition for clathrin-mediated endocytosis,,,,,-2,
+Caspase activation via Death Receptors in the presence of ligand,,,2,2,,
+Catabolism of macromolecule,4.057,2.883,2.355,2.04,0.452,1.015
+Catabolism of protein,4.057,2.883,2.355,2.04,0.452,1.015
+CD27 Signaling in Lymphocytes,,,-1.633,,-2.236,
+CD28 Signaling in T Helper Cells,,,-1.633,,-3,-2.449
+CD40 Signaling,,,-1,-1,-1.633,
+CDC42 Signaling,,,-1.134,,-1.667,-1
+CDX Gastrointestinal Cancer Signaling Pathway,-1,,0.535,0.378,0.632,0
+Cell cycle progression,1.433,1.691,0.858,0.769,-1.054,-0.203
+Cell cycle progression of blood cells,0.896,,,,-1.381,-1.537
+Cell cycle progression of leukocytes,1.067,,0.211,,-1.174,-1.321
+Cell cycle progression of lymphatic system cells,0.555,,-0.041,,-1.672,-1.863
+Cell cycle progression of lymphocytes,,,,,-1.47,-1.654
+Cell death of antigen presenting cells,,,2.736,3.194,2.443,3.023
+Cell death of B lymphocytes,0.179,1.11,1.381,0.745,2.084,2.45
+Cell death of breast cancer cell lines,1.457,2.276,,1.832,,
+Cell death of breast cell lines,2.503,2.066,,,,
+Cell death of cancer cells,2.106,1.948,-0.138,1.333,0.006,-0.613
+Cell death of carcinoma cell lines,,,,,,1.404
+Cell death of connective tissue cells,2.231,2.604,1.842,0.883,1.833,1.468
+Cell death of dendritic cells,2.303,1.931,1.718,2.905,0.618,
+Cell death of embryonic cell lines,1.799,2.714,,,,
+Cell death of endothelial cells,,,1.66,0.75,,
+Cell death of epithelial cell lines,2.421,2.726,,1.431,,
+Cell death of epithelial cells,2.837,3.368,2.709,2.734,2.369,1.985
+Cell death of fibroblast cell lines,,2.692,,,,
+Cell death of gastrointestinal cells,0.813,0.692,,,1.82,
+Cell death of granulocytes,,,1.563,,,
+Cell death of hepatocytes,2.337,2.574,1.289,1.602,,0.428
+Cell death of hepatoma cell lines,,2.375,,,,
+Cell death of immune cells,3.055,3.16,2.294,1.526,1.529,2.249
+Cell death of kidney cell lines,,2.159,,,,
+Cell death of kidney cells,3.047,,,1.532,,
+Cell death of leukemia cell lines,2.115,0.91,0.741,-0.497,0.495,0.119
+Cell death of leukocyte cell lines,,,1.611,0.689,0.895,0.77
+Cell death of liver,,,1.839,2.155,,1.161
+Cell death of liver cells,2.709,2.746,1.754,2.33,2.868,0.999
+Cell death of lymphatic system cells,1.281,2.109,1.326,0.107,2.279,2.556
+Cell death of lymphocytes,1.435,2.005,1.278,0.21,2.072,2.401
+Cell death of lymphoid organ,1.533,1.716,0.566,-1.029,1.044,0.958
+Cell death of lymphoma cell lines,,,1.088,-0.388,1.912,1.349
+Cell death of macrophages,2.493,2.585,3.042,3.028,3.148,3.249
+Cell death of malignant tumor,,,,1.333,0.059,-0.613
+Cell death of mononuclear leukocytes,,,1.022,-0.346,1.958,2.266
+Cell death of muscle cells,1.985,,,,,
+Cell death of myeloid cells,1.883,2.028,2.756,2.453,2.545,3.162
+Cell death of neuroglia,1.758,1.523,1.131,,,
+Cell death of oligodendrocytes,1.387,1.982,,,,
+Cell death of phagocytes,1.731,1.871,2.245,2.265,1.703,2.677
+Cell death of sarcoma cell lines,,,,1.246,,
+Cell death of somatic cells,3.072,3.154,2.247,1.78,1.642,1.769
+Cell death of T lymphocytes,2.447,2.271,0.587,-0.347,0.998,1.01
+Cell death of thymocytes,,,,,1.02,
+Cell death of tumor cell lines,1.27,1.556,0.826,1.156,0.554,1.44
+Cell death of tumor cells,1.93,2.113,-0.333,1.029,0.478,-0.083
+Cell division of leukocytes,1.091,,,0.062,,
+Cell movement,2.618,1.272,2.742,1.373,0.543,0.251
+Cell movement of antigen presenting cells,1.683,,2.632,1.451,2.219,1.719
+Cell movement of B lymphocytes,,,-0.196,,,-1.536
+Cell movement of blood cells,,,2.852,1.935,,
+Cell movement of cancer cells,,,,,1.45,-0.282
+Cell movement of dendritic cells,0.704,,1.602,0.633,1.993,1.953
+Cell movement of granulocytes,1.194,1.32,4.173,2.588,2.668,2.142
+Cell movement of hematopoietic progenitor cells,,,1.454,-0.705,,
+Cell movement of leukocyte cell lines,,,2.138,0.785,2.278,1.78
+Cell movement of leukocytes,1.297,0.619,2.506,1.337,0.714,0.609
+Cell movement of lymphocytes,1.436,,1.016,-0.051,-0.095,-0.4
+Cell movement of macrophages,1.914,0.876,3.261,2.156,2.43,1.724
+Cell movement of monocytes,,,2.439,,1.642,2.317
+Cell movement of mononuclear leukocytes,1.52,,1.432,0.379,0.108,0.129
+Cell movement of myeloid cells,1.541,,3.619,2.491,1.58,1.617
+Cell movement of neutrophils,1.007,1.1,4.344,2.824,3.064,2.154
+Cell movement of PBMCs,,,1.795,,1.809,1.177
+Cell movement of peripheral blood leukocytes,,,2.02,,2.207,1.121
+Cell movement of phagocytes,1.495,,3.277,2.034,1.959,1.88
+Cell movement of T lymphocytes,1.158,0.638,1.158,0.674,0.027,-0.249
+Cell movement of tumor cell lines,2.137,1.326,2.812,1.07,0.26,0.015
+Cell movement of tumor cells,,,,,1.833,-0.543
+Cell proliferation of carcinoma cell lines,2.509,1.651,,,,0.758
+Cell proliferation of colorectal cancer cell lines,,2.219,,,,
+Cell proliferation of leukocyte cell lines,1.143,,0.438,0.145,-1.8,
+Cell proliferation of T lymphocytes,0.848,-0.039,-0.185,-0.276,-1.724,-1.527
+Cell proliferation of tumor cell lines,2.459,1.833,1.132,0.632,-0.425,0.013
+Cell surface interactions at the vascular wall,,,-0.333,-1.414,0,-0.447
+Cell survival,0.942,-0.016,-1.322,-1.24,-2.442,-2.495
+Cell transformation,,,1.784,0.469,0.099,
+Cell viability,1.362,0.514,-1.182,-1.101,-2.113,-2.329
+Cell viability of B lymphocytes,,,-0.729,,,-1.524
+Cell viability of blood cells,,,-0.358,-0.27,-1.556,-1.75
+Cell viability of cancer cells,,-0.339,,,-2.057,-2.424
+Cell viability of carcinoma cell lines,1.218,1.007,,,,
+Cell viability of leukemia cells,,,,,,-1.784
+Cell viability of leukocytes,1.034,0.361,-0.446,-0.372,-1.695,-1.932
+Cell viability of lymphatic system cells,,,,-0.712,-2.438,-2.474
+Cell viability of lymphocytes,,,-0.954,-1.089,-2.142,-2.297
+Cell viability of mononuclear leukocytes,0.699,,-0.733,-0.548,-2.32,-2.485
+Cell viability of myeloid cells,0.602,,1.035,1.691,,
+Cell viability of phagocytes,1.279,,0.755,1.064,,
+Cell viability of T lymphocytes,,,-0.958,-1.185,-1.794,
+Cell viability of tumor cells,0.412,0.063,-1.036,,-2.065,
+Cell-mediated response,1.526,,0.523,0.08,0.398,-0.064
+Cell-mediated response of T lymphocytes,,,,-2.161,0.347,
+Cellular Effects of Sildenafil (Viagra),,,0.218,2.309,1.069,1.897
+Cellular homeostasis,1.278,-0.22,2.524,0.511,-0.466,-0.08
+Cellular infiltration,0.687,0.251,2.671,1.647,-0.064,0.042
+Cellular infiltration by antigen presenting cells,1.74,0.663,2.413,1.63,1.589,0.946
+Cellular infiltration by granulocytes,0.901,1.128,2.622,1.629,0.985,0.691
+Cellular infiltration by inflammatory leukocytes,,,2.576,2.244,0.424,-0.541
+Cellular infiltration by leukocytes,0.614,0.078,2.333,1.459,-0.404,-0.43
+Cellular infiltration by lymphocytes,-0.383,-0.61,0.433,0.263,-1.149,-0.948
+Cellular infiltration by macrophages,1.753,0.569,2.45,1.575,0.967,0.403
+Cellular infiltration by mononuclear leukocytes,-0.221,,0.662,0.341,-1.205,-0.742
+Cellular infiltration by myeloid cells,1.563,1.213,2.997,1.872,0.487,0.853
+Cellular infiltration by phagocytes,1.781,1.295,3.064,2.162,1.251,1.091
+Cereblon and Thalidomide Signaling Pathway,,,-0.378,-0.378,1,
+Cerebral Malformation Signaling Pathway,,,1.134,1.633,0.378,0
+CGAS-STING Signaling Pathway,2.646,2.236,2.183,2.111,0.832,2.121
+Chaperone Mediated Autophagy Signaling Pathway,,,-1.941,-2.646,-2.53,-1.342
+Chemotaxis,1.471,,3.183,0.965,2.658,1.875
+Chemotaxis of antigen presenting cells,,,1.921,0.837,2.244,1.983
+Chemotaxis of dendritic cells,,,0.496,-0.287,1.586,
+Chemotaxis of granulocytes,,,3.712,2.17,3.19,2.176
+Chemotaxis of leukocytes,,,2.924,1.027,2.662,2.149
+Chemotaxis of lymphocytes,,,1.09,,1.704,1.052
+Chemotaxis of macrophages,,,,,2.073,
+Chemotaxis of mononuclear leukocytes,,,1.831,,2.083,1.727
+Chemotaxis of myeloid cells,,,3.906,1.778,3.152,2.59
+Chemotaxis of neutrophils,,,3.873,2.343,2.976,1.877
+Chemotaxis of peripheral blood leukocytes,,,,,,1.463
+Chemotaxis of phagocytes,,,3.486,1.257,2.988,2.601
+Chemotaxis of T lymphocytes,,,0.704,,1.172,0.843
+Cholecystokinin/Gastrin-mediated Signaling,,,0.816,1,-0.447,-0.447
+Chronic disease,-0.937,-1.285,0.476,-0.758,-1.345,-1.36
+Chronic inflammatory disorder,-0.38,-0.745,0.246,-0.638,-1.011,-0.937
+Chronic Myeloid Leukemia Signaling,,,-1.069,-0.333,-2.53,-2.828
+Class A/1 (Rhodopsin-like receptors),,,1.886,0,1.291,0.333
+Class I MHC mediated antigen processing and presentation,2.449,,4.359,4,2.333,3
+Clathrin-mediated endocytosis,,,,,-2,
+CLEAR Signaling Pathway,,,-1.667,-1.134,0.447,1
+Clearance of bacteria,0.97,,2.819,1.298,,
+Clearance of virus,0.424,,1.385,,1.311,
+Clonal expansion of lymphocytes,,,,,,-1.195
+Clonal expansion of T lymphocytes,,,,,,-1.195
+Co-inhibition by CTLA4,,,,,-1,
+Co-inhibition by PD-1,,,-2.111,-0.816,-2.887,-2.121
+Colitis,-1.793,,-1.371,-2.173,-0.679,-0.996
+Collagen-induced arthritis,0.751,,1.196,-0.519,,
+Co-localization of protein,2.377,1.731,2.415,2.426,,
+Colony formation,,,,1.353,,-0.617
+Colony formation of cells,0.905,-0.731,,1.492,,-0.481
+Colony formation of hematopoietic progenitor cells,-1.053,,,,,
+Colony formation of lymphatic system cells,0.339,-1.667,-0.197,,,
+Colorectal Cancer Metastasis Signaling,2,,1.698,2.333,-0.333,-1.134
+Communication between Innate and Adaptive Immune Cells,2.449,,1.789,2.138,0.535,0
+Communication of cells,0.55,-0.017,-0.03,-1.343,-0.991,-1.478
+Complement cascade,,,0.905,0.816,0.632,1.134
+Complement System,,,1,,0.816,0.447
+Concentration of lipid,,,1.115,,,
+Conformational modification of protein,,2.166,,,,
+Contact growth inhibition,,,,1.249,,
+Contact growth inhibition of tumor cell lines,1.491,1.49,,,,
+Coronavirus Pathogenesis Pathway,-1.633,-2.449,-1.606,-2.324,-2.496,-2.887
+Co-stimulation by CD28,,,,,-1.342,
+CREB Signaling in Neurons,,,-0.302,-1.414,-2.121,-1.89
+Crosstalk between Dendritic Cells and Natural Killer Cells,,,1.155,0.378,-0.333,-0.378
+CTLA4 Signaling in Cytotoxic T Lymphocytes,,,2.837,1.155,2.985,2.324
+C-type lectin receptors (CLRs),,,2.111,2.121,-0.447,0
+Cutaneous melanoma,,,0.728,,1.969,
+Cyclophilin Signaling Pathway,1,,0,1.155,-0.832,-1.414
+Cytolysis,1.292,1.121,0.978,0.665,0.408,0.342
+Cytolysis of blood cells,,,-0.192,,-1.082,
+Cytosolic sensors of pathogen-associated DNA,,,2.646,2.236,1,
+Cytostasis,2.317,2.112,2.059,1.23,1.115,1.254
+Cytostasis of tumor cell lines,1.755,1.762,,0.981,,0.802
+Cytotoxic reaction,,,,,1.565,
+Cytotoxic reaction of cells,,,,,1.519,
+Cytotoxicity of cells,1.922,,0.54,0.614,0.454,0.67
+Cytotoxicity of lymphocytes,1.71,1.406,0.063,0.048,-0.496,-0.164
+Cytotoxicity of natural killer cells,,1.446,-0.222,-0.299,-0.086,0.572
+Cytotoxicity of T lymphocytes,1.422,1.057,0.859,0.934,0,-0.515
+Damage of connective tissue,,,,,,-1.301
+Damage of gastrointestinal tract,0.555,0.686,0.152,1.044,,0.051
+Damage of genitourinary system,,,2.212,1.169,,1.086
+Damage of lung,0.196,1.698,1.849,1.524,2.529,2.684
+DAP12 interactions,,,-1,,,
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,,,2.449,2,1.134,
+Death Receptor Signaling,,,1.414,0,0,
+Degradation of DNA,2.756,2.383,1.321,2.537,1.285,1.389
+Degranulation,,,2.871,1.803,2.048,1.657
+Degranulation of cells,,,2.748,1.64,1.902,1.496
+Degranulation of leukocytes,,,2.617,1.52,1.865,1.457
+Degranulation of myeloid cells,,,,,,2.141
+Degranulation of phagocytes,,,,,,1.962
+Demyelination,2.137,1.463,1.822,2.034,1.462,2.068
+Demyelination of central nervous system,1.067,,,1.463,,
+Dendritic Cell Maturation,1.89,,0.928,0.943,-0.655,-1
+Dendropoiesis,2.245,,1.712,1.631,0.281,-0.353
+Dephosphorylation of protein,1.834,1.225,,,,
+Depletion of leukocytes,,-0.254,0.028,0.016,-1.043,-0.894
+Depletion of lymphocytes,,,0.24,,-1.416,-0.765
+Depletion of mononuclear leukocytes,,,,,,-1.032
+Deposition of protein,,0.882,,,1.933,0.966
+Dermatitis,-0.663,-1.464,1.516,0.766,0.145,0.568
+Deubiquitination,,,2.646,2.53,0.447,
+Development of antigen presenting cells,2.042,,1.505,1.326,-0.1,-0.738
+Development of B lymphocytes,,,-1.914,-0.789,-0.811,-1.062
+Development of body trunk,,,0.577,-0.697,-2.048,
+Development of bone marrow,,,2.742,2.015,0.046,0.163
+Development of bone marrow cells,1.614,-0.456,2.991,2.095,0.242,0.375
+Development of carcinoma,-1.067,-0.365,1.047,-0.015,0.012,-1.636
+Development of CD4+ T-lymphocytes,,,1.175,0.377,-0.465,-1.195
+Development of connective tissue cells,,,1.255,0.813,-0.251,-0.763
+Development of helper T lymphocytes,0.323,,0.452,-0.468,-1.382,-0.863
+Development of hematopoietic cell lines,1.109,,,,,
+Development of hematopoietic cells,,,0.507,0.793,-1.324,-1.248
+Development of hematopoietic progenitor cells,0.677,,0.186,0.655,-1.596,-1.581
+Development of hematopoietic system,1.106,-0.715,1.503,1.051,-0.922,-0.65
+Development of malignant tumor,-1.764,,0.57,-0.539,-0.451,-1.93
+Development of phagocytes,,,0.531,0.81,-1.091,-1.637
+Development of Th17 cells,0.323,-0.152,1.005,0.63,,
+Diabetes mellitus,-0.777,-1.109,-0.474,-1.066,-0.37,-1.48
+Differential Regulation of Cytokine Production in Intestinal Epithelial Cells by IL-17A and IL-17F,,,2,,,
+Differential Regulation of Cytokine Production in Macrophages and T Helper Cells by IL-17A and IL-17F,,,2,,,
+Differentiation of antigen presenting cells,2.65,1.487,2.064,2.068,0.548,0.04
+Differentiation of B lymphocytes,,,-1.638,-1.006,-1.189,-1.286
+Differentiation of bone cells,0.293,-0.266,0.099,0.416,-0.822,-1.533
+Differentiation of CD4+ T-lymphocytes,1.534,1.91,2.066,0.034,-0.503,-0.154
+Differentiation of connective tissue cells,-0.329,-0.384,0.045,0.261,-0.487,-1.385
+Differentiation of helper T lymphocytes,0.829,,2.131,0.052,0.262,0.288
+Differentiation of hematopoietic progenitor cells,0.605,,-0.982,-0.06,-1.751,
+Differentiation of leukocyte cell lines,1.067,,,,,
+Differentiation of macrophages,1.876,0.577,2.471,2.34,0.683,-0.087
+Differentiation of myeloid leukocytes,1.97,0.662,0.881,1.188,-0.713,-1.482
+Differentiation of naive helper T cells,,,,,,1.231
+Differentiation of naive lymphocytes,,,,,-1.153,-0.39
+Differentiation of osteoblasts,-0.357,-1.165,,,,
+Differentiation of osteoclasts,0.811,0.152,-0.004,,-1.376,-1.773
+Differentiation of PBMCs,1.483,,,,,
+Differentiation of peripheral blood lymphocytes,1.103,,,,,
+Differentiation of phagocytes,2.701,1.51,1.159,1.393,-0.344,-0.898
+Differentiation of progenitor cells,0.401,,-0.948,0.11,-1.686,-1.032
+Differentiation of regulatory T lymphocytes,1.387,,,,-0.998,-0.774
+Differentiation of splenocytes,1.172,,,,,
+Differentiation of T lymphocytes,1.164,1.127,0.712,-1.069,-1.632,-1.148
+Differentiation of Th1 cells,,,,0.637,1.26,0.136
+Differentiation of Th17 cells,0.279,,1.484,0.215,-0.582,-0.223
+Differentiation of Th2 cells,,,0.345,-1.33,-0.115,
+Dimerization of protein,1.648,2.278,3.084,2.041,2.804,2.527
+Disease of retina,,,,,1.323,0.371
+Disorder of hair,,,0.479,0.128,2.201,1.666
+Disorder of pregnancy,,,1.664,1.664,,
+DNA damage-induced 14-3-3σ Signaling,,,1.342,,1,
+Docosahexaenoic Acid (DHA) Signaling,,,-1.667,0,-1,0
+DYRK1A Signaling Pathway,,,0.816,,0.447,1
+Dysfunction of heart,,,,,,1.145
+Dysfunction of mitochondria,2.191,,,,,
+Dysmyelination,,,1.487,,1.462,
+EGF Signaling,,,0,,-1,
+Eicosanoid Signaling,,,-0.378,-0.447,-0.447,-1.414
+Encephalitis,,,-0.853,-0.367,-1.188,-1.01
+Endocannabinoid Cancer Inhibition Pathway,,,1,-0.816,0.447,0.447
+Endocannabinoid Developing Neuron Pathway,,,-1,,,
+Endocrine pancreatic dysfunction,,,-0.474,-1.066,-0.37,-1.48
+Endocytosis,1.513,0.612,4.174,2.231,3.481,2.835
+Endocytosis by eukaryotic cells,,,3.262,1.7,2.28,1.994
+Endocytosis by macrophages,0,,3.212,2.119,2.501,2.357
+Endothelin-1 Signaling,,,,,,-1
+Endotoxemia,,,1.254,1.032,,-0.535
+Endotoxin shock response,,,1.874,1.424,,-0.216
+Engulfment by macrophages,,,3.174,2.095,2.257,2.079
+Engulfment of antigen presenting cells,,,3.157,1.722,2.225,2.043
+Engulfment of blood cells,,,3.581,,2.57,2.3
+Engulfment of cells,0.803,,3.684,1.78,2.928,2.589
+Engulfment of myeloid cells,,,3.609,,2.607,2.334
+Engulfment of phagocytes,,,3.538,2.045,2.537,2.135
+Enteritis,,,-1.393,-1.719,-0.656,-0.746
+Eosinophilia,,,2.688,1.929,0.707,2.121
+Ephrin A Signaling,,,1.633,2,1,
+Ephrin Receptor Signaling,,,0.447,1,,
+Epithelial Adherens Junction Signaling,,,2,,,2
+ERK/MAPK Signaling,,,0,0.447,-1.633,-1.342
+ER-Mitochondrial Communication Signaling Pathway,2,,1.633,1.134,,1.342
+Erythropoietin Signaling Pathway,-1,,-1.155,-1.342,-1.265,-1.633
+ESR-mediated signaling,,,,,-1,
+Expansion of blood cells,,,-0.46,-0.225,-1.79,-1.43
+Expansion of cells,1.714,0.979,-0.028,0.15,-1.289,-1.116
+Expansion of leukocytes,1.709,,-0.774,-0.38,-2.179,-1.896
+Expansion of lymphatic system cells,1.703,,-0.692,-0.051,-1.75,-1.293
+Expansion of lymphocytes,,,-0.943,-0.354,-1.992,-1.554
+Expansion of mononuclear leukocytes,1.502,0.655,-1.07,-0.556,-2.116,-1.858
+Expansion of T lymphocytes,2.213,1.474,-0.654,-0.165,-1.313,-1.076
+Experimental autoimmune encephalomyelitis,-0.872,-1.363,-0.46,-0.274,-1.257,-1.046
+Experimentally-induced arthritis,0.875,,1.37,0.334,-0.518,-0.777
+Export of molecule,,1.406,,,,
+Expression of mature microRNA,0.42,-0.426,1.226,,0.738,-0.568
+Extrahepatic metastasis,0.191,,,,1.319,
+Extra-nuclear estrogen signaling,,,,,-1.342,
+Factors Promoting Cardiogenesis in Vertebrates,,,-1,,,
+FAK Signaling,,,-1.029,-2.236,-1.915,-2.132
+FAT10 Cancer Signaling Pathway,,,1.633,,,
+Fatty acid metabolism,1.994,,2.029,,,0.523
+Fc epsilon receptor (FCERI) signaling,,,0.707,1,-1.134,-1
+Fc Epsilon RI Signaling,,,-1,,,
+Fcgamma receptor (FCGR) dependent phagocytosis,,,-0.447,,-1,
+Ferroptosis Signaling Pathway,,,1,1,,
+Fever,,,1.528,0.098,0.751,-0.558
+FGF Signaling,,,-1,,,
+Fibrosis,-1.205,-1.698,1.708,0.334,0.997,0.961
+Fibrosis of lung,,,1.66,1.154,0.61,0.882
+FLT3 Signaling,,,,,-2,
+FLT3 Signaling in Hematopoietic Progenitor Cells,,,1,1,0,
+Flux of Ca2+,,,2.026,0.677,0.932,1.385
+Flux of inorganic cation,,,,,1.139,
+Flux of ion,,,2.356,0.925,1.271,1.385
+fMLP Signaling in Neutrophils,,,-0.447,,-1,
+Folate Signaling Pathway,,,1,,,
+Formation of germinal center,,,,,-2.278,
+Formation of lymphoid organ,-0.905,,-2.125,-2.433,-3.4,-2.854
+Formation of lymphoid tissue,,,-2.608,-2.932,-4.204,-3.219
+Formation of protein-protein complex,2.565,1.945,1.991,1.946,0.819,0.814
+Formation of solid tumor,-0.38,-0.483,1.654,0.539,0.278,-1.023
+Formation of spleen,-0.343,,,-1.408,-0.956,
+Formation of thymus gland,,,-1.205,,,
+Fragmentation of DNA,2.584,2.184,1.258,2.285,,
+Fragmentation of DNA fragment,1.71,,,,,
+Frequency of lymphatic system cells,,,-1.703,-1.399,-1.931,
+Frequency of lymphocytes,,-0.371,-1.553,-1.221,-1.77,-1.245
+Frequency of T lymphocytes,,,-1.237,-2.034,,-1.695
+Function of antigen presenting cells,,,1.387,,,
+Function of myeloid cells,,,1.664,,,
+Function of natural killer cells,,,,-1,,
+Function of phagocytes,,,1.698,1.982,,
+Fungal infection,,,-1.154,,,-0.956
+FXR/RXR Activation,-1.342,,-1.941,-1.633,-0.905,-0.707
+G alpha (i) signalling events,,,1.155,-0.707,0.905,0.378
+GADD45 Signaling,,,-2.449,-2,,
+Gap Junction Signaling,,,0.378,-0.447,-0.447,-1.342
+Gastroenteritis,,,-1.478,,,
+Gastrointestinal carcinoma,,,,,,-1.982
+Gastrointestinal tract cancer,-1.067,,0.434,-0.574,-1.195,-1.526
+Gastrointestinal tumor,,,0.153,-0.871,-1.61,-1.287
+Generation of helper T lymphocytes,,,-0.173,-0.557,-1.959,-1.808
+Generation of reactive oxygen species,,,1.803,,1.012,0.584
+Generation of tumor,-1.327,-0.234,0.848,-0.222,-0.169,-1.628
+Genital tract cancer,,,-1.231,-1.172,-1.131,
+Genital tumor,,,-1.062,-1.019,-1.026,-0.851
+Genitourinary carcinoma,,,-1.178,-0.882,-1.14,-1.561
+Glioma,,,,1.465,,
+Glioma Invasiveness Signaling,,,,,1,
+Glomerulonephritis,0.555,-0.277,-1.154,-0.249,-1.946,-2.028
+Glycation Signaling Pathway,2.449,,2.683,3,0.775,0.707
+GM-CSF Signaling,,,0.378,1.342,-0.447,
+G-Protein Coupled Receptor Signaling,,,0.218,-0.277,-2.496,-2.53
+Granuloma,,,-0.103,-1.342,-1.673,-1.951
+Growth hormone receptor signaling,2,,2.449,2.449,2,
+Growth Hormone Signaling,0,,0.447,0.447,-1,-1
+Growth of bacteria,-1.355,-1.154,-2.183,-1.686,-2.203,
+Growth of connective tissue,0.926,-0.043,-0.242,0.013,-1.363,-1.237
+Growth of epithelial tissue,0.353,-0.059,1.412,0.993,0.681,0.937
+Growth of lymphoid organ,-0.452,-1.238,-1.078,-2.016,-2.925,-1.916
+Growth of lymphoid tissue,,,-1.2,-2.139,-3.034,-1.96
+Growth of malignant tumor,0.039,0.583,-0.342,-0.377,-1.001,-1.19
+Growth of melanoma,-1.951,-1.686,,,,
+Growth of solid tumor,-1.356,-0.949,0.788,-0.019,0.014,-0.579
+Growth of somatic cells,0.309,-0.607,-0.458,-0.907,-1.929,-1.881
+Growth of tumor,-1.297,-0.53,-0.262,-0.77,-1.584,-1.495
+Growth of vessel,0.628,,,1.517,,-0.39
+Gαq Signaling,,,-0.447,,,-2
+Hashimotos encephalitis,-0.872,-1.363,-0.46,-0.274,-1.257,-1.046
+Head and neck cancer,-1.165,,-1.132,-0.861,-0.326,-0.085
+Hematologic cancer,-1.285,-0.951,-0.173,-0.296,0.152,-0.764
+Hematologic cancer of cells,-1.551,-0.776,-0.118,-0.566,0.611,-0.931
+Hematological or lymphatic system tumor,,,-0.734,,-1.436,-1.3
+Hematoma Resolution Signaling Pathway,-0.816,-1,-1.789,-2.496,-0.688,-0.832
+Hematopoiesis of mononuclear leukocytes,2.316,1.27,-0.241,-1.242,-2.953,-2.61
+Hematopoiesis of phagocytes,2.653,1.236,0.641,1.348,-0.871,-1.422
+Hemorrhagic disease,,,1.103,0.492,0.616,-0.048
+Hepatic Cholestasis,2,,2.683,2.333,1.291,1.667
+Hepatic Fibrosis Signaling Pathway,,,1.512,1.291,0,-0.535
+Hepatitis B Chronic Liver Pathogenesis Signaling Pathway,-0.333,-0.816,0.243,0.832,-1.155,-0.632
+Hepatobiliary carcinoma,-1.285,,,-0.29,,-1.046
+Hepatocellular carcinoma,-1.206,,,,,-1.762
+HER-2 Signaling in Breast Cancer,,,-0.816,-0.447,-2.236,-2
+HEY1 Signaling Pathway,,,,,-1,
+HGF Signaling,,,-0.447,,-2.236,
+HIF1α Signaling,,,0.816,1,0.447,
+HIV infection,2.183,,,,,
+Homeostasis of leukocytes,1.34,,0.13,-2.343,-2.869,-2.128
+Homeostasis of mononuclear leukocytes,,,-0.042,-2.607,-3.116,-2.429
+Homing of cells,1.75,,3.266,1.104,2.263,1.756
+Homing of leukocytes,0.759,,2.942,1.196,2.211,1.984
+Homing of lymphocytes,,,1.213,0.861,1.325,0.821
+Homing of mononuclear leukocytes,,,1.875,0.831,1.728,1.492
+Homing of T lymphocytes,,,1.036,0.698,0.971,0.83
+HOTAIR Regulatory Pathway,,,0.302,0.378,0,-1
+Huntington's Disease Signaling,,,-1,,-1,
+Hypersensitive reaction,0.493,-1.091,1.85,1.294,0.153,0.378
+ICOS-ICOSL Signaling in T Helper Cells,,,-2.111,-2.121,-2.333,-2.828
+ID1 Signaling Pathway,,,-0.333,1,-1.134,
+IGF-1 Signaling,,,-0.816,0,-2.236,-2
+I-kappaB kinase/NF-kappaB cascade,,,2.335,,,
+IL-1 Signaling,,,1.414,,0.447,
+IL-10 Signaling,1,,-0.365,0.5,-0.209,1.387
+IL-12 Signaling and Production in Macrophages,1.89,,0.365,0.894,-0.447,-0.471
+IL-13 Signaling Pathway,0,,0.277,0.707,-1.89,-1.342
+IL-15 Production,,,0.333,0,-1.134,
+IL-17 Signaling,2,,1,1.89,-0.277,0.333
+IL-17A Signaling in Fibroblasts,,,2.309,2.236,0,
+IL-17A Signaling in Gastric Cells,,,1,,,
+IL-2 Signaling,,,,,-1.342,
+IL-22 Signaling,,,-0.447,,-1,
+IL-23 Signaling Pathway,,,0.333,0,-2,
+IL-27 Signaling Pathway,2.828,,2.117,2.828,0.5,0.577
+IL-3 Signaling,,,1,,,
+IL-33 Signaling Pathway,,,1,1.414,0,0
+IL-4 Signaling,,,-1.606,-1,-2.673,-1.508
+IL-6 Signaling,0.816,,2.065,1.508,0.832,0.333
+IL-7 Signaling Pathway,,,-1.134,-1,-1.134,-0.816
+IL-8 Signaling,,,0.577,1,-0.302,-0.447
+ILK Signaling,,,-0.816,,-2.236,-2
+Immediate hypersensitivity,,,1.938,0.972,1,0.816
+Immune mediated inflammatory disease,-0.301,-1.041,1.05,0.379,-0.04,0.649
+Immune response of antigen presenting cells,-0.151,-0.97,2.452,1.626,1.092,1.031
+Immune response of brain,-1.21,-1.696,-0.959,-0.494,-1.297,-1.127
+Immune response of cells,2.102,0.526,3.451,2.31,2.52,2.202
+Immune response of dendritic cells,,,,,1.172,
+Immune response of helper T lymphocytes,-1,,,,-1.48,-1.48
+Immune response of leukocytes,0.384,-0.686,1.759,0.183,0.812,0.413
+Immune response of lymphocytes,0.453,-0.254,-0.115,-1.575,-0.264,-0.853
+Immune response of macrophages,-0.164,-1.131,2.456,1.83,1.123,1.39
+Immune response of myeloid cells,0.606,-0.199,3.087,2.397,2.056,1.961
+Immune response of neutrophils,,,2.303,1.807,2.009,1.204
+Immune response of phagocytes,0.777,0,3.047,2.137,2.225,1.776
+Immune response of T lymphocytes,0.137,-0.254,-0.102,-1.505,-0.133,-0.893
+Immune response of tumor cell lines,,,1.466,,,
+Immunogenic Cell Death Signaling Pathway,,,1.941,1,1.134,
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,,,-1.616,-1.043,-2.2,-1.698
+Incidence of tumor,,-1.548,0.897,-0.057,-0.634,-1.867
+Induction of Apoptosis by HIV1,,,1.134,,0,
+Induction of gene,2.603,1.547,2.885,2.802,0.423,0.635
+Induction of mRNA,2.661,1.634,3.147,2.93,0.912,0.958
+Induction of RNA,,,2.854,2.765,0.55,
+Infarction of heart,,,1.276,,,
+Infection by Bacilli,-1.067,,,,,
+Infection by coronavirus,,,-1.732,-1.432,,-1.131
+Infection by DNA virus,-1.087,-0.651,-2.586,-2.06,-1.483,-2.075
+Infection by Flaviviridae,,,-1.309,-1.432,-1.104,-1.131
+Infection by Herpesviridae,-1.404,-1.131,-2.688,-2.331,-2.087,-2.413
+Infection by mycobacteria,,,-1.981,,,
+Infection by Orthomyxoviridae,-2.236,,,,,
+Infection by Picornaviridae,-1.969,-1.969,,,,
+Infection by Retroviridae,,1.067,,0.878,,
+Infection by RNA virus,-0.967,-1.48,-1.839,-1.511,-2.334,-2.297
+Infection of antigen presenting cells,,,,,,-1.079
+Infection of cells,0.226,0.443,-0.979,-0.817,-1.125,-1.009
+Infection of fibroblasts,-1,-1,,,,
+Infection of leukocytes,0.762,,-1.269,-0.398,-0.648,-1.132
+Infection of lymphocytes,,,,,,-1.272
+Infection of mammalia,-2.433,-1.908,-3.946,-2.851,-2.1,-2.892
+Infection of respiratory tract,,,-2.343,-1.526,-1.387,-0.577
+Infiltration by neutrophils,0.632,0.802,2.367,1.599,1.173,0.627
+Infiltration by T lymphocytes,0.277,-0.272,0.676,1.058,-0.864,-0.594
+Inflammasome pathway,,,2,2,,
+Inflammation of absolute anatomical region,-0.844,-1.161,-0.765,-0.682,-1.203,-1.266
+Inflammation of airway,-0.152,,2.609,1.816,1.295,1.281
+Inflammation of body cavity,-0.836,-1.013,-0.451,-0.288,-0.631,-0.757
+Inflammation of central nervous system,-1.178,,-0.836,-0.487,,-0.986
+Inflammation of gastrointestinal tract,-1.191,-0.739,-1.164,-1.235,-0.217,-0.313
+Inflammation of joint,-0.066,-1.215,1.071,0.125,-0.902,-0.957
+Inflammation of liver,-0.026,-0.359,1.072,1.072,0.27,-0.462
+Inflammation of lung,-0.976,-1.325,0.878,0.426,-0.185,-0.229
+Inflammation of muscle,,,1.294,0.114,,
+Inflammation of organ,-0.891,-1.046,-0.884,-0.885,-1.251,-1.179
+Inflammation of respiratory system component,-0.735,-1.022,1.487,0.813,0.284,0.191
+Inflammation of secretory structure,,,0.553,,0.108,1.233
+Inflammatory bowel disease,,,0.557,-0.448,1,
+Inflammatory demyelinating disease,1.633,1.633,1.89,1.89,0.978,1.89
+Inflammatory response,1.966,1.525,4.178,2.712,4.033,2.971
+Inflammatory response of cells,,,1.72,1.369,0.8,0.288
+Inflammatory response of phagocytes,,,1.258,,,
+Influx of cells,,,3.134,,2.561,
+Influx of granulocytes,,,3.067,2.358,,
+Influx of leukocytes,,,2.998,,2.561,
+Influx of neutrophils,,,3.364,2.72,,
+Inhibition of Angiogenesis by TSP1,,,,,-2,
+Inhibition of blood cells,,,0.755,1.056,0.186,0.812
+Inhibition of cells,2.556,2.152,1.766,1.979,0.725,1.166
+Innate immune response,2.804,1.746,2.971,2.792,2.415,2.723
+iNOS Signaling,,,3,2.449,1.342,
+Insulin Secretion Signaling Pathway,,,2.236,1.633,1,1
+Insulin-dependent diabetes mellitus,-1,,-0.14,0,-0.348,-0.732
+Integrin cell surface interactions,,,,,1,
+Integrin to Cytoskeleton Signaling Pathway,,,-1,,-0.816,0
+Interaction of blood cells,,,2.397,,,
+Interaction of leukocytes,,,2.221,,,
+Interaction of lymphocytes,,,1.474,0.091,,
+Interaction of mononuclear leukocytes,,,2.054,0.758,,
+Interaction of neutrophils,,,2.905,2.345,1.926,1.021
+Interaction of phagocytes,,,2.913,2.06,1.374,0.149
+Interaction of somatic cells,,,1.958,,,
+Interaction of T lymphocytes,,,1.376,-0.072,,
+Interferon alpha/beta signaling,4.472,4.123,4.707,4.491,4.146,4.123
+Interferon gamma signaling,3.464,3,1.8,2.683,1.342,0.943
+Interferon Signaling,2.333,1.342,2.496,2.53,2.333,1
+Interleukin-1 family signaling,2,,3.13,2.673,1.732,1.89
+Interleukin-10 signaling,2,,3.464,2.121,2.111,1.633
+Interleukin-12 family signaling,,,,1,,
+Interleukin-20 family signaling,2,,2.236,1.633,,
+Interleukin-4 and Interleukin-13 signaling,1.342,,0.853,0.277,0,0
+Interleukin-6 family signaling,,,2.236,2,,
+Internalization of cells,,-0.776,3.067,2.227,2.184,2.412
+Internalization of protein,,2.104,,0.965,1.652,0.286
+Interphase,,,,,,-1.529
+Intrathoracic malignant tumor,,,2.817,2.046,2.223,1.093
+Intrathoracic organ tumor,,,2.995,1.86,2.029,1.317
+Intrinsic Pathway for Apoptosis,,,-1.342,,,
+Invasion of cells,2.029,1.193,2.612,2.124,1.478,0.833
+Invasion of tumor cell lines,1.71,0.986,,1.895,1.223,
+Invasive cancer,0.189,-0.387,2.306,1.089,0.701,-0.218
+Invasive tumor,,,2.306,1.089,,
+Ion homeostasis of cells,,,2.285,0.857,1.213,1.308
+Irritable Bowel Syndrome Signaling Pathway,2.449,,4.382,3.9,2.524,1.508
+ISG15 antiviral mechanism,2.449,2.449,2.449,2.449,1.89,2.449
+ISGylation Signaling Pathway,2.333,1.633,3.578,2.668,2.53,2.121
+JAK/STAT Signaling,0.447,,0.577,0.333,-1,-0.707
+Killing of cells,,,1.183,-0.341,0.314,
+Killing of leukocytes,-0.393,-0.393,1.535,-0.098,0.012,0.09
+Lack of lymphocytes,,,1.934,,2.059,
+Left ventricular heart disease,,,,,,1.041
+Leukemia,-1.154,-1.154,-0.039,0.05,-0.687,0.05
+Leukocyte Extravasation Signaling,,,0.816,1,0,
+Leukocyte migration,,,2.725,1.745,0.987,0.52
+Leukocytosis,-0.845,,0.178,-1.336,,
+Leukopenia,,,1.981,1.954,1.769,1.399
+Leukopoiesis,2.526,,0.154,-0.825,-2.508,-2.105
+Liquid tumor,-0.692,-1.154,0.181,0.6,-0.915,-0.24
+Liver carcinoma,-1.206,,,-0.248,,-0.958
+Liver lesion,1.478,1.103,2.305,1.831,1.991,1.029
+Localization of protein-protein complex,0.803,0.188,1.04,0.942,-0.519,-0.556
+Loss of hair,,,0.059,0,2.191,1.387
+Loss of leukocytes,,,1.695,,1.928,1.668
+Loss of lymphocytes,,,,,1.699,1.414
+Lower respiratory tract disorder,,,1.067,-0.222,0.759,-1.131
+LPS/IL-1 Mediated Inhibition of RXR Function,,,2.333,2,1,
+Lung cancer,0.818,0.6,2.975,2.251,2.402,1.274
+Lung injury,0.513,1.698,2.2,2.055,2.179,3.083
+Lung lesion,-0.411,-0.93,2.44,1.513,0.918,0.631
+Lung tumor,,,2.937,1.976,,
+Lupus erythematosus,,,0.588,0.478,-0.478,-1.067
+LXR/RXR Activation,,,-2.84,-2.121,-2.111,-1
+Lymph node cancer,,,0.64,,-1.387,
+Lymphocyte homeostasis,0.983,0.02,-0.042,-2.607,-3.116,-2.429
+Lymphocyte migration,1.972,1.25,1.169,0.333,-0.003,-0.005
+Lymphocytic cancer,-1.156,-0.776,-0.056,-0.566,0.369,-0.931
+Lymphocytic leukemia,,,-0.555,,-1.067,
+Lymphohematopoietic neoplasia,,,-0.541,,-1.21,
+Lymphoid cancer,,,0.108,,-0.284,-1.106
+Lymphoma,-1.236,-0.339,0.003,-0.32,1.021,-0.637
+Lymphopenia,,,1.615,,1.543,1.123
+Lymphopoiesis,1.14,0.602,-0.781,-2.287,-3.043,-2.685
+Lymphoreticular neoplasm,-1.094,-0.692,-0.237,-0.121,-0.101,-1.051
+Lymphotoxin β Receptor Signaling,,,-1,,-2,
+Lysosome Positioning Signaling Pathway,,,-2.646,-2.449,-2,
+Macrophage Classical Activation Signaling Pathway,2.333,1.342,1.095,1.789,-0.218,0
+Male genital neoplasm,,,-1.757,-1.706,-1.124,-0.774
+Malignant genitourinary solid tumor,,,-1.434,-1.601,-0.799,-1.644
+Malignant lymphocytic neoplasm,-1.156,-0.776,-0.056,-0.566,0.369,-0.931
+Malignant neoplasm of male genital organ,,,-1.98,-1.982,-1.131,
+Malignant neoplasm of respiratory system,,,2.975,2.251,2.402,1.353
+Malignant neoplasm of retroperitoneum,,,,,-1.067,
+Malignant solid organ tumor,,,0.531,1,2.608,1.98
+MAP kinase activation,,,0,1,,
+Maturation of antigen presenting cells,2.917,,3.001,3.28,,
+Maturation of blood cells,2.816,,1.433,1.666,-0.429,
+Maturation of cells,2.825,1.755,1.087,1.381,-0.538,-0.625
+Maturation of dendritic cells,2.569,,2.669,3,0.786,-0.008
+Maturation of leukocytes,3.109,2.201,1.698,1.825,-0.115,-0.511
+Maturation of lymphocytes,,,-1.302,,-1.765,-1.589
+Maturation of mononuclear leukocytes,,,-0.792,-0.972,-1.209,-0.969
+Maturation of myeloid cells,1.446,,,,,
+Maturation of phagocytes,2.944,,2.885,3.105,,
+Mature B-cell neoplasm,,,0.152,,-1.067,
+Mediastinal lesion,,,0.934,1.014,1.204,1.087
+Melanoma,-1.036,-0.76,-1.147,-1.319,-0.499,-0.394
+Metabolism of DNA,2.407,,0.977,,0.766,
+Metabolism of protein,2.731,1.037,2.001,1.58,-0.355,0.829
+Metabolism of reactive oxygen species,,,2.753,,,
+Metastasis,0.189,-0.387,2.306,1.089,0.575,-0.352
+Metastatic solid tumor,0.265,,2.292,0.865,1.195,0.593
+MHC class II antigen presentation,,,-3.162,-2.449,-2.714,-2.714
+MIF Regulation of Innate Immunity,,,0.816,,-1,-1
+MIF-mediated Glucocorticoid Regulation,,,1.342,2,,0
+Migration of antigen presenting cells,1.086,,1.817,0.981,1.388,0.479
+Migration of cells,2.682,1.357,2.679,1.411,0.685,0.424
+Migration of colorectal cancer cell lines,,1.777,,,,
+Migration of dendritic cells,,,0.925,,1.115,0.569
+Migration of granulocytes,,,2.379,1.301,1.845,1.356
+Migration of lymphatic system cells,,,1.198,0.45,-0.001,0.111
+Migration of macrophages,1.46,,,,1.314,0.413
+Migration of mononuclear leukocytes,2.124,,1.295,0.537,0.15,0.148
+Migration of myeloid cells,0.381,,2.342,1.649,0.95,0.387
+Migration of neutrophils,,,2.858,1.841,,
+Migration of phagocytes,0.469,,2.534,1.522,1.344,0.927
+Migration of tumor cell lines,2.37,1.63,,1.555,0.561,0.272
+MITF-M-dependent gene expression,,,-2,,,
+Mitotic G1 phase and G1/S transition,,,1,,,
+Mobilization of blood cells,,,2.029,1.441,,
+Mobilization of Ca2+,,,1.135,0.466,1.497,1.596
+Mobilization of cells,1.573,,1.753,1.187,1.03,
+Modulation of host responses by IFN-stimulated genes,,,,2,2,2
+Molecular Mechanisms of Cancer,1,,0.169,-0.426,-0.962,-1.414
+Monocytopoiesis,2.07,,0.573,1.24,-0.953,-1.709
+Movement disorders,0.765,,,2.39,0.24,0.681
+MSP-RON Signaling in Cancer Cells Pathway,,,-1.134,-1.342,-1.89,-1.633
+MSP-RON Signaling in Macrophages Pathway,0,,0.775,0.632,1.508,2.111
+Multimerization of protein,1.231,,,,,
+Multiple sclerosis,1.633,1.633,1.89,1.89,0.984,1.89
+Multiple Sclerosis Signaling Pathway,3,2.236,2.043,3.13,0.209,-0.243
+Musculoskeletal lesion,-0.064,-1.157,1.08,0.232,-0.86,-0.821
+MYC Mediated Apoptosis Signaling,,,1.342,,,
+MyD88 dependent cascade initiated on endosome,,,2,,,
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,,,2.714,2.121,0.816,1.342
+Myelination Signaling Pathway,,,-1.633,,-1.89,-0.816
+Myelitis,-0.888,-1.374,-0.554,-0.286,-1.266,-1.056
+Myelodysplastic syndrome or leukemia,-1.154,-1.154,-0.039,0.05,-0.687,0.05
+Myelopoiesis of hematopoietic progenitor cells,1.131,,,,,
+Myelopoiesis of leukocytes,,,0.433,0.99,-1.322,-2.179
+Myocardial dysfunction,,,,,,1.227
+Myocardin Signaling Pathway,,,-1,,,
+NAFLD Signaling Pathway,2.828,,2.985,2.84,0.832,1.265
+NAP1L1 Transcription Regulation Signaling Pathway,,,-1,,,
+Natural Killer Cell Signaling,,,-0.258,-1.508,0,0.333
+Necroptosis Signaling Pathway,2.236,2.236,3.162,3,2.646,2.449
+Necrosis,2.389,2.822,1.746,2.004,1.305,2.125
+Necrosis of epithelial tissue,2.485,2.923,2.512,2.28,2.552,2.273
+Necrosis of kidney,2.707,1.769,2.499,1.291,,
+Necrosis of liver,2.101,,1.766,2.173,2.831,1.05
+Necrosis of malignant tumor,,,-0.133,1.333,,
+Necrosis of muscle,1.663,,,,,
+Necrosis of prostate cancer cell lines,,2.131,0.362,,,1.082
+Neoplasia of cells,-0.264,-0.148,1.925,0.493,1.07,0.148
+Neoplasia of lymphoid organ,,,-0.355,-1.214,-2.359,-1.491
+Neovascularization,,,,,1.175,-0.124
+Nephritis,-0.204,-1.22,-0.457,-0.21,-1.349,-0.872
+Nervous system neoplasm,,,,1.202,,
+Netrin Signaling,,,-2,,-2,
+Neuroinflammation Signaling Pathway,2.646,,3.286,2.982,0.6,0
+Neurological signs,0.873,0.985,1.867,1.543,1.731,2.424
+Neuromuscular and immunological disorder,1.238,0.956,1.726,1.117,0.488,1.492
+Neuromuscular disease,1.569,1.334,1.992,1.449,0.477,1.787
+Neuromuscular disease with neuropathy,1.633,1.633,1.89,1.89,0.968,1.89
+Neuronal Cancer Synapse Signaling Pathway,,,1.633,1,0,0
+Neuropeptides in Migraine Signaling Pathway,,,2,,,0
+Neuroprotective Role of THOP1 in Alzheimer's Disease,,,,,-1,
+Neutrophil degranulation,,,4.426,2.558,3.838,3.411
+Neutrophil Extracellular Trap Signaling Pathway,,,1.964,2.138,1.291,1.508
+NF1 RAS Signaling Pathway,,,0.728,-0.277,-0.905,-1
+NFKBIE Signaling Pathway,,,-0.577,0,-1.265,0
+NF-κB Signaling,2.449,,1.177,1.069,0.243,0.302
+NK cell proliferation,0.085,-1.131,-1.023,-1.23,,-1.488
+NLR signaling pathways,,,0.707,1.414,,
+NOD1/2 Signaling Pathway,1.89,1,2.449,2.668,0,0.707
+Non rhabdoid tumor,-1.061,-0.758,-0.718,-0.105,-1.256,-0.685
+Noncardiac thoracic lesion,,,2.485,1.488,0.854,0.694
+Non-Hodgkin lymphoma,,,1.688,,1.411,
+Non-malignant disorder,-1.633,,0.586,1.102,0.196,0.898
+Nuclear Cytoskeleton Signaling Pathway,,,-1,,-0.447,0
+Number of activated T lymphocyte,-1.964,-1.964,,,,
+NUR77 Signaling in T Lymphocytes,,,0,,-1,0
+OAS antiviral response,2.236,2.236,2.449,2.236,2.236,2.236
+Occlusion of artery,,,1.846,,1.086,1.357
+Occlusion of blood vessel,,,,,1.086,1.357
+Oligomerization of protein,,,,1.227,,
+Oncostatin M Signaling,,,2,,,
+Ophthalmia,,,-0.726,-0.651,-1.51,-0.97
+Opioid Signaling Pathway,,,-2,,-2.236,
+Organismal death,-2.611,-1.93,-0.732,-0.056,0.412,0.071
+Osteoarthritis Pathway,,,1.941,0.707,1.414,-0.378
+Osteoclastogenesis,1.245,-0.294,1.724,0.877,0.157,-0.787
+Ovarian Folliculogenesis Signaling Pathway,,,-1.508,-0.707,-0.816,-1.342
+OX40 Signaling Pathway,,,-1.897,,-2.53,
+Oxidative Stress Induced Senescence,,,,,-2,
+Oxytocin in Brain Signaling Pathway,,,-1.414,-0.447,,-1
+Oxytocin Signaling Pathway,,,0.816,,-1,-2
+p38 MAPK Signaling,2.236,,2.138,1,0.905,0.816
+p53 Signaling,,,1.134,,1.342,
+p75 NTR receptor-mediated signalling,,,1.342,0,,
+Paramyxoviridae infection,,,,-2.19,,
+Parasitic Infection,-0.106,,-2.069,-0.079,-0.195,0.357
+Parkinson's Signaling Pathway,2.236,,2.183,2.887,1.265,1.633
+Pathogen Induced Cytokine Storm Signaling Pathway,3.606,2.646,3.647,3.772,2.121,1.633
+"PD-1, PD-L1 cancer immunotherapy pathway",,,1.941,1.508,2.111,1.89
+PDGF Signaling,,,1.342,2,0,
+Pelvic cancer,,,-1.231,-1.172,-1.131,-1.067
+Pelvic tumor,,,-1.062,-1.019,-1.026,-1.124
+Phagocytic cell defect,-0.133,,0.798,0.203,1.033,0.301
+Phagocytosis,1.596,-0.035,4.217,3.235,2.932,3.221
+Phagocytosis by macrophages,-0.351,,2.601,1.726,1.508,1.644
+Phagocytosis of antigen presenting cells,,,2.762,1.519,1.71,1.851
+Phagocytosis of blood cells,,,3.113,,1.99,2.001
+Phagocytosis of cells,,,3.497,2.409,2.446,2.614
+Phagocytosis of myeloid cells,0.404,,2.974,2.01,1.813,1.821
+Phagocytosis of phagocytes,0.404,,3.065,1.753,1.953,1.821
+Phagosome Formation,,,1.671,1.091,-0.229,0.535
+Phospholipase C Signaling,,,-1.414,-2,-1.89,-2.449
+PI3K Signaling in B Lymphocytes,,,-0.905,0,-1.89,-2.646
+PI3K/AKT Signaling,,,-0.378,,-1.342,
+PIP3 activates AKT signaling,,,-0.447,,-2.449,
+PKCθ Signaling in T Lymphocytes,,,-1.387,-1.414,-2.84,-2.121
+PKR-mediated signaling,,,1,0.447,,
+Polarization of blood cells,2.583,1.982,1.897,1.256,-0.243,-0.183
+Polarization of cells,,,2.021,1.334,-0.076,-0.183
+Polarization of leukocytes,2.397,,1.772,1.108,-0.414,-0.379
+Polyamine Regulation in Colon Cancer,,,-1,,-1,
+Polyarthritis,0.751,,1.553,-0.251,-0.737,-0.496
+Polymerization of protein,1.467,0.485,1.976,1.556,,-0.72
+PPAR Signaling,,,-2.828,-2,-1.89,-0.447
+PPARα/RXRα Activation,,,-1.897,-0.816,-0.447,
+Preeclampsia Signaling Pathway,2,,2.496,1.89,0.707,0.447
+Priming of lymphocytes,,,1.381,,-0.91,-1.294
+Priming of mononuclear leukocytes,,,1.589,0.365,,
+Processing of protein,2.055,2.374,,,,
+Production of antibody,-0.342,-0.52,0.253,-0.335,-1.241,-1.017
+Production of cells,,,,,-1.856,
+Production of cytokine,1.036,,,,,
+Production of hydroperoxide,1.446,,,,,
+Production of leukocytes,,,,,-1.697,
+Production of lymphatic system cells,,,,,-1.64,
+Production of lymphocytes,,,,,-1.406,
+Production of Nitric Oxide and Reactive Oxygen Species in Macrophages,2,,2.5,2.714,0.632,0.707
+Production of reactive oxygen species,,,3.44,2.194,,
+Production of virus,-1.464,-1.99,,-1.706,,
+Progressive motor neuropathy,1.89,1.89,1.667,2.121,0.968,2.121
+Progressive neurological disorder,1.89,1.89,1.265,2.121,0.968,2.121
+Progressive neuromuscular disease,1.633,1.633,1.89,1.89,0.968,1.89
+Proinflammatory response,1.485,,2.686,2.302,,
+Prolactin Signaling,0.447,,0.816,0.816,-1,-1
+Proliferation of B lymphocytes,-0.485,-0.894,-1.084,-0.624,-2.27,-1.261
+Proliferation of blood cells,0.207,,-0.014,-0.492,-1.957,-1.614
+Proliferation of cancer cells,-0.344,-0.419,,-0.62,,-2.276
+Proliferation of CD4+ T-lymphocytes,,,-1.238,-2.322,-2.794,-2.267
+Proliferation of CD8+ T lymphocyte,0.225,0.225,-0.332,-1.015,-0.684,-0.151
+Proliferation of connective tissue cells,1.366,0.43,1.179,1.211,-0.031,-0.164
+Proliferation of epithelial cells,0.798,,2.427,1.403,1.532,1.898
+Proliferation of fibroblast cell lines,-0.682,-1.219,,,,
+Proliferation of helper T lymphocytes,,,,-1.311,-1.615,-1.573
+Proliferation of hematopoietic cells,-0.351,,-0.867,-1.04,-2.566,-2.07
+Proliferation of hematopoietic progenitor cells,-0.088,,-0.781,-0.901,-2.44,-1.925
+Proliferation of hepatocytes,,,1.147,,,
+Proliferation of immune cells,,-0.836,0.073,-0.31,-2.052,-1.739
+Proliferation of kidney cells,2.236,,,,,
+Proliferation of leukemia cell lines,1.373,,0.283,-0.302,-0.84,-0.161
+Proliferation of lymph node cells,,,,,-1.941,-1.77
+Proliferation of lymphatic system cells,-0.123,-1.302,-0.389,-0.744,-2.42,-1.823
+Proliferation of lymphocytes,0.134,-1.086,-0.42,-0.747,-2.374,-1.81
+Proliferation of mesangial cells,2,,,,,
+Proliferation of mononuclear leukocytes,0.336,,-0.271,-0.62,-2.203,
+Proliferation of myeloid cells,0.477,,1.33,,-0.099,0.482
+Proliferation of naive lymphocytes,,,,,,-1.947
+Proliferation of naive T lymphocytes,,,,,-2.59,
+Proliferation of PBMCs,-0.455,,-1.901,,-2.086,-1.754
+Proliferation of peripheral blood lymphocytes,,-0.676,-2.226,,-2.528,-1.818
+Proliferation of peripheral T lymphocyte,,,,,-2.208,-1.777
+Proliferation of phagocytes,1.315,,0.944,0.734,-0.876,
+Proliferation of progenitor cells,-0.032,-1.671,-1.04,-1.302,-2.658,-1.741
+Proliferation of smooth muscle cells,1.046,,,,,
+Proliferation of somatic cells,0.309,-0.607,-0.461,-0.907,-1.932,-1.881
+Proliferation of splenic T lymphocytes,-0.651,-0.152,,,-2.421,-1.824
+Proliferation of splenocytes,-0.404,-0.928,-1.286,-1.728,-2.78,-1.74
+Proliferation of T lymphocytes in spleen,-0.383,-0.562,-1.337,-2.125,-2.698,-1.982
+Proliferation of tumor cells,-0.077,-0.348,-1.157,-0.384,-2.405,-2.485
+Proliferation of vascular cells,0.09,-0.398,1.107,1.391,-0.098,-0.4
+Prostate cancer,,,,-1.982,,
+Prostate Cancer Signaling,,,-0.447,,-1,
+Prostatic tumor,,,,-1.706,,
+Protein Kinase A Signaling,,,0,0,-1.342,-1.633
+Protein kinase cascade,0.757,,1.786,1.308,,
+Protein Ubiquitination Pathway,,,2,2,,
+Proteolysis,2.262,2.268,1.39,1.714,0.946,1.15
+PTEN Regulation,,,1,,,
+PTEN Signaling,,,1.342,,2.449,
+Pulmonary Fibrosis Idiopathic Signaling Pathway,,,0.775,0.333,-1.667,-1.633
+Pulmonary fibrosis or aplastic anemia,-0.469,,1.66,1.154,0.61,0.882
+Pulmonary Healing Signaling Pathway,,,0.632,1.342,-0.447,
+Pulmonary Hypertension Signaling Pathway,,,0.832,0.447,-1.667,-1.633
+PXR/RXR Activation,,,-2,,,
+Pyroptosis Signaling Pathway,,,3,2.646,2.236,
+Quantity of activated T lymphocyte,-1.4,-1.4,,-1.263,-1.005,-1.294
+Quantity of B lymphocytes,2.215,1.53,-1.17,0.817,-1.262,-1.282
+Quantity of blood,,,1.5,1.217,0.152,0.241
+Quantity of blood cells,2.92,1.087,-1.418,-0.641,-2.551,-2.213
+Quantity of bone marrow cells,1.533,0.849,0.369,0.208,-0.242,-0.25
+Quantity of Ca2+,,,2.137,0.571,1.352,-0.314
+Quantity of CD4+ T-lymphocytes,0.494,1.264,-1.841,-1.565,-1.958,-1.886
+Quantity of CD8+ T lymphocyte,2.126,1.37,1.073,1.814,1.397,1.224
+Quantity of cells,3.17,1.646,-1.218,-0.987,-2.204,-1.868
+Quantity of connective tissue,1.057,0.958,1.728,1.347,-0.348,0.475
+Quantity of dendritic cells,-0.586,,0.298,-0.648,-0.999,-1.185
+Quantity of double-positive thymocyte,,,,,-1.27,
+Quantity of fibroblast cell lines,1.715,1.715,,,,
+Quantity of follicular B lymphocytes,1.387,0.686,0.018,1.877,-1.266,0.177
+Quantity of granulocytes,1.351,0.106,0.266,0.778,0.2,-0.135
+Quantity of hematopoietic progenitor cells,0.676,0.665,-1.181,-1.03,-2.173,-2.466
+Quantity of IgG,,,-0.67,-0.894,-1.893,-1.311
+Quantity of IgG1,,,-0.187,-0.887,-1.16,-0.529
+Quantity of immunoglobulin,-0.886,-1.214,-0.013,-0.61,-1.205,-0.938
+Quantity of lesion,-1.118,-1.29,,,,
+Quantity of leukocytes,2.785,,-1.641,-0.809,-2.581,-2.141
+Quantity of lymph follicle,,,-0.391,1.259,-1.404,-0.317
+Quantity of lymph node,,,-1.461,-2.629,-1.328,-2.061
+Quantity of lymph node cells,,,-1.31,-2.493,-1.172,-1.907
+Quantity of lymphatic system cells,2.807,,-2.217,-1.58,-3.657,-3.495
+Quantity of lymphocytes,2.915,,-2.294,-1.31,-3.263,-3.139
+Quantity of lymphoid organ,1.173,0.513,-1.782,-1.394,-3.236,-3.219
+Quantity of lymphoid tissue,1.673,1.133,-1.939,-1.252,-3.355,-3.101
+Quantity of macrophages,1.407,0.849,1.213,1.037,-0.084,0.046
+Quantity of memory T lymphocytes,,,,-1.433,-0.85,-1.113
+Quantity of metal,,,,,1.765,0.232
+Quantity of metal ion,,,2.41,0.954,1.813,0.288
+Quantity of mononuclear leukocytes,2.892,1.017,-2.324,-1.332,-3.449,-2.987
+Quantity of myeloid cells,1.812,0.765,0.968,1.183,0.078,0.234
+Quantity of natural killer T lymphocytes,,,,-2.368,-1.948,
+Quantity of neutrophils,1.357,,0.625,1.659,0.725,-0.378
+Quantity of PBMCs,,,,1.255,-0.457,0.52
+Quantity of peripheral blood leukocytes,1.869,,1.572,1.693,0.584,0.772
+Quantity of peripheral blood lymphocytes,,,,1.047,,0.562
+Quantity of plasma cells,,,,1.271,,0.245
+Quantity of pre-B lymphocytes,,,,,,-1.423
+Quantity of progenitor cells,0.425,,-1.501,-1.39,-2.173,
+Quantity of regulatory T lymphocytes,,,-0.229,-0.667,-1.844,-1.967
+Quantity of spleen,,,-1.732,,,
+Quantity of splenocytes,1.738,0.636,-1.951,-0.604,-3.102,-2.759
+Quantity of T lymphocytes,1.62,-0.057,-2.341,-2.157,-2.955,-2.647
+Quantity of thymocytes,,,-2.009,-1.659,-2.465,-2.498
+Quantity of thymus gland,,,-1.77,-1.431,-2.25,-2.246
+Quantity of TNF,,,0.657,1.32,0,
+Quantity of TREG cells,,,,,-0.813,-1.41
+Quantity of tumor cell lines,,1.98,,,,
+RAC Signaling,,,0,,-1,
+RANK Signaling in Osteoclasts,,,-1.342,,-2,
+RBP4 in Immune and Metabolic Regulation Signaling Pathway,2.236,,2.5,3.162,1,1.342
+Recruitment of antigen presenting cells,1.463,,2.638,2.86,0.919,0.449
+Recruitment of CD4+ T-lymphocytes,1.953,,,2.772,,2
+Recruitment of CD8+ T lymphocyte,1.964,,,,,
+Recruitment of cells,,,3.199,2.777,1.306,-0.427
+Recruitment of granulocytes,1.797,,2.811,2.039,1.451,-0.712
+Recruitment of leukocytes,2.271,0.605,3.448,3.079,1.568,0.013
+Recruitment of lymphocytes,,,2.746,2.742,2.398,1.81
+Recruitment of macrophages,1.195,0.152,2.271,2.367,0.901,0.223
+Recruitment of mononuclear leukocytes,2.775,,3.365,3.378,2.714,1.862
+Recruitment of myeloid cells,1.71,,2.794,2.211,1.394,-0.655
+Recruitment of neutrophils,1.556,,2.576,1.865,1.084,-1.339
+Recruitment of phagocytes,1.528,,2.976,2.401,1.025,-0.855
+Recruitment of protein,3.647,3.074,3.561,2.323,0.915,1.971
+Recruitment of T lymphocytes,2.578,1.957,2.32,2.168,2.158,1.741
+Reduced kidney function,,,1.95,0.61,1.129,1.304
+Reelin Signaling in Neurons,,,-2.236,,-2,
+Regulation of IL-2 Expression in Activated and Anergic T Lymphocytes,,,-1.265,-0.816,-1.941,-1.134
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by IGFBPs,,,1,,,
+Regulation of leukocytes,,,,,1.067,
+Regulation of lymphocytes,,,,,1.067,
+Regulation of RUNX2 expression and activity,,,,2,,
+Regulation of T lymphocytes,,,,,1.067,
+Regulation of the Epithelial Mesenchymal Transition by Growth Factors Pathway,,,0.577,0.378,-1.265,-1.134
+Regulation of TLR by endogenous ligand,,,2.646,2.449,,
+Regulation of TP53 Activity through Phosphorylation,,,,,-2,
+Relapsed multiple sclerosis,,,2.449,2.449,,2.449
+Relapsing-remitting multiple sclerosis,2.236,2.236,,2.449,,2.449
+Relaxin Signaling,,,,,-1,
+Release of CYTOCHROME C (family),,1.939,,,,
+Release of lipid,1.628,,,,,
+Remyelination,1.131,,,,,
+Renal lesion,,,1.463,,0.103,0.306
+Renin-Angiotensin Signaling,,,1,,,
+Replication of coronavirus,-1.455,,,,,
+Replication of Flaviviridae,-2.773,-2.599,,,,-2.265
+Replication of Hepatitis C virus,-2.202,-1.96,,,,
+Replication of Herpesviridae,-2.313,-1.884,,-2.936,,
+Replication of HIV-1,1.309,0.152,0.155,0.257,-1.907,-0.949
+Replication of Influenza A virus,-1.861,-1.975,,,,
+Replication of Influenza virus,-1.505,-1.568,,,,
+Replication of Murine herpesvirus 4,-2.449,-2.236,,,,
+Replication of poxviridae,-0.562,-1.165,,,,
+Replication of Retroviridae,1.269,0.243,0.669,0.276,-1.693,-0.746
+Replication of Rhabdoviridae,-2.231,-1.788,-3.069,-2.466,-2.381,-2.435
+Replication of RNA virus,-2.357,-2.212,-2.633,-2.309,-3.921,-3.147
+Replication of vesicular stomatitis virus,-1.915,-1.416,-2.818,-2.191,-2.071,-1.903
+Replication of viral replicon,-2.963,-3.114,,-2.694,-3.27,
+Replication of virus,-2.409,-2.481,-2.669,-2.591,-4.264,-3.295
+Respiratory hypersensitivity,,,1.616,0.333,0.707,0.707
+Respiratory system tumor,,,2.937,1.976,,
+Response of antigen presenting cells,,,2.612,1.849,1.225,0.799
+Response of connective tissue cells,2.162,,,,,
+Response of dendritic cells,,,0.964,,1.501,0.14
+Response of fibroblasts,1.937,,,,,
+Response of granulocytes,0.927,,2.562,1.943,,
+Response of lymphatic system cells,0.784,,1.377,-1.171,0.48,0.058
+Response of lymphocytes,,,0.83,-1.499,0.342,-0.595
+Response of macrophages,-0.499,-1.477,2.488,1.869,1.016,0.936
+Response of mononuclear leukocytes,0.784,0.128,1.267,-0.865,0.5,-0.274
+Response of myeloid cells,0.364,-0.586,3.288,2.529,2.203,1.791
+Response of myeloid leukocytes,0.465,-0.115,2.81,2.055,2.026,1.216
+Response of phagocytes,0.432,-0.404,3.277,2.316,2.275,1.641
+Response of splenocytes,,,,,-1.723,
+Response of tumor cell lines,,,1.636,,,
+Response to elevated platelet cytosolic Ca2+,,,,,1,1
+Rheumatic disease,-0.919,-0.919,-0.749,-0.991,-0.927,-1.247
+RHO GTPases Activate NADPH Oxidases,,,2,2,,2
+Ribonucleotide Reductase Signaling Pathway,,,-0.816,,-1.633,
+Ribotoxic Stress Signaling Pathway,,,1.134,1.342,1.342,
+RNA m6A Methylation Signaling Pathway,,,0,0.816,-1.342,-1.342
+Role of Chondrocytes in Rheumatoid Arthritis Signaling Pathway,2,,3.742,2.333,2.111,1.414
+Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza,3.162,3,4.243,3.873,3.742,3.464
+Role of IL-17F in Allergic Inflammatory Airway Diseases,,,2,,,
+Role of JAK family kinases in IL-6-type Cytokine Signaling,0.447,,0.632,0.816,-1.633,-1
+Role of JAK1 and JAK3 in γc Cytokine Signaling,0,,-0.632,-0.707,-0.816,-1.342
+"Role of JAK1, JAK2 and TYK2 in Interferon Signaling",,,1.342,1,,
+Role of JAK2 in Hormone-like Cytokine Signaling,0,,-0.378,0.447,-1.633,-1
+"Role of Macrophages, Fibroblasts and Endothelial Cells in Rheumatoid Arthritis",1.667,,3.569,2.041,1.225,0.471
+Role of MAPK Signaling in Inhibiting the Pathogenesis of Influenza,,,1.265,0.816,0.447,
+Role of NFAT in Regulation of the Immune Response,,,-1.807,-1.667,-3.153,-2.496
+Role of Osteoblasts in Rheumatoid Arthritis Signaling Pathway,2.449,2,2.84,2.333,1.732,1.897
+Role of Osteoclasts in Rheumatoid Arthritis Signaling Pathway,,,1,1.414,-0.277,-1.134
+Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses,2.646,2,3.9,3.873,2.53,2.646
+Role of PKR in Interferon Induction and Antiviral Response,2.828,2.449,3.13,2.84,1.941,2.333
+Role of RIG1-like Receptors in Antiviral Innate Immunity,,,2.236,,2,
+Role of Tissue Factor in Cancer,,,-0.632,0,-1.897,-1.633
+S100 Family Signaling Pathway,,,1.3,0.688,-0.447,-0.775
+Sclerotic lesion,,,1.481,,0.71,1.269
+Secretion of molecule,2.471,1.904,3.557,3.535,0.862,1.978
+Secretion of protein,2.383,1.82,3.388,3.474,0.501,1.718
+Semaphorin Neuronal Repulsive Signaling Pathway,,,2.236,,2,
+Senescence Pathway,,,-0.577,-0.333,-1.508,-1.265
+Senescence-Associated Secretory Phenotype (SASP),,,2,,,
+Sepsis,-0.391,-1.067,0.577,0.378,-0.835,-0.835
+Septic shock,,,2.217,1.623,0.16,0.146
+Septicemia,,,1.254,1.032,,-0.47
+Serine phosphorylation,2.943,,,,,
+Serine phosphorylation of protein,2.926,2.183,,,,
+Sertoli Cell-Germ Cell Junction Signaling Pathway (Enhanced),,,0.333,-1,-0.632,-1
+Sertoli Cell-Sertoli Cell Junction Signaling,,,1.134,-1,0,
+Severe inflammatory disorder,,,,,1.091,
+Sexually transmitted disease,,,1.067,,,
+Shape change of blood cells,,,,1.556,,
+Sheddase Signaling Pathway,,,1,0.632,0.577,1
+Shock response,-0.218,,2.001,2.129,-0.437,-0.404
+Signal transduction,,,-1.109,-1.487,-1.925,-1.925
+Signaling by CSF3 (G-CSF),2,,2.449,2.449,1,
+Signaling by SCF-KIT,,,1.342,1.342,1,
+Signaling by the B Cell Receptor (BCR),,,-0.905,0.447,-2.121,-2.449
+Signaling by VEGF,,,1,,,
+Signaling of cells,1.337,,,1.158,,
+Signaling of protein,1.216,,,-0.124,0.177,
+Size of lesion,0.763,0.404,2.283,1.583,-0.436,0.147
+Skin cancer,,,0.844,,2.412,
+Skin lesion,,,2.372,2.203,2.127,2.346
+Skin tumor,,,1.171,0.701,1.477,1.832
+SLAMF Signaling Pathway,,,-2.041,-1.604,-3.13,-1.508
+Sleep REM Signaling Pathway,,,-1,,,
+Small Cell Lung Cancer Signaling,,,-1.342,,-2.236,
+Solid tumor,,-1.176,1.623,0.26,0.832,0.122
+SPINK1 General Cancer Pathway,,,1,,,
+STAT3 Pathway,0,,-0.333,-0.378,-2.449,
+Stimulation of blood cells,,,1.69,,-0.659,
+Stimulation of cells,,,1.418,0.858,-0.951,-0.731
+Stimulation of leukocytes,1.814,,1.571,1.14,-0.833,-1.322
+Stimulation of lymphatic system cells,1.229,,1.095,0.517,-1.348,
+Stimulation of lymphocytes,0.966,0.471,0.912,0.314,-1.142,-1.082
+Stimulation of macrophages,1.93,,,,,
+Stimulation of mononuclear leukocytes,1.308,,1.212,0.745,-0.969,
+Stimulation of T lymphocytes,0.587,-0.08,0.978,0.545,-1.29,-1.136
+Stress Granule Signaling Pathway,2.449,2.449,1.732,1.667,2.121,2.121
+Subcutaneous tumor,-1.751,-0.853,,0.039,0.347,-0.582
+Survival of organism,1.058,0.79,-0.378,-0.5,-0.868,-1.067
+Synthesis of eicosanoid,,,2.241,2.786,0.764,0.643
+Synthesis of fatty acid,1.647,,2.168,2.458,,0.583
+Synthesis of hyaluronic acid,1.036,,,,,
+Synthesis of lipid,1.877,,,,,
+Synthesis of nitric oxide,2.204,0.761,1.749,1.433,-0.521,-0.814
+Synthesis of nitrite,1.228,,,,,
+Synthesis of nucleotide,,2.385,,,,
+Synthesis of prostaglandin,,,2.176,2.632,0.426,0.201
+Synthesis of prostaglandin E,1.903,,1.604,2.514,,
+Synthesis of prostaglandin E2,1.695,0.317,1.457,2.351,,-0.47
+Synthesis of protein,1.981,0.26,1.977,1.522,-0.099,0.852
+Synthesis of purine nucleotide,1.404,2.176,,,,
+Synthesis of reactive oxygen species,,,2.888,1.818,1.408,1.251
+Systemic autoimmune syndrome,-0.988,-1.085,0.382,0.03,-0.84,-1.175
+Systemic lupus erythematosus,,,0.588,0.478,-0.478,-1.067
+Systemic Lupus Erythematosus in B Cell Signaling Pathway,3.162,2.828,1.808,2.985,0.186,0.853
+Systemic Lupus Erythematosus in T Cell Signaling Pathway,,,-0.229,0.302,-2.138,-1.897
+T cell development,1.302,0.527,0.089,-2.158,-3.047,-2.379
+T Cell Exhaustion Signaling Pathway,2,,2.065,1.069,1.213,1.807
+T Cell Receptor Signaling,,,-2.558,-2.673,-3.71,-2.84
+T cell response,0.216,-0.277,0.553,-1.64,0.099,-0.936
+TAK1-dependent IKK and NF-kappa-B activation,,,2,2,,
+T-cell non-Hodgkin lymphoma,,,1.202,,1.117,
+TCR signaling,,,-1.5,-0.632,-3.207,-2.828
+TEC Kinase Signaling,2,,1.508,1.414,-0.707,0.447
+TGF-β Signaling,,,-2,-2,-2.236,
+TH1 immune response,,,2.081,0.705,,
+Th1 Pathway,0.816,,-0.784,-0.728,-2.041,-1.886
+Th17 Activation Pathway,,,1.698,0.333,0.632,0.378
+Th2 Pathway,,,-0.943,-0.535,-1.698,-1.155
+Thoracic neoplasm,,,2.995,1.86,,1.317
+Thrombocytopenia,,,1.175,0.547,0.404,-0.388
+Thyroid Cancer Signaling,,,,,,-2
+TNFR1 Signaling,,,1,,,
+TNFR2 non-canonical NF-kB pathway,,,0.707,,-1,
+Toll-like Receptor Cascades,,,2.646,2.449,,
+Toll-like Receptor Signaling,2.236,,2.673,2.887,2.333,2.449
+Toxemia,,,1.254,1.032,-0.259,-0.535
+Toxicity of cells,1.624,1.097,0.548,0.492,0.452,0.526
+TP53 Regulates Transcription of Cell Death Genes,,,1.342,0,,
+Transactivation,,,1.482,0.817,,
+Transactivation of DNA,2.766,2.506,1.552,0.899,-0.543,-0.438
+Transactivation of gene,2.519,2.286,1.764,0.735,-0.373,-0.293
+Transactivation of response element,1.998,2.423,1.374,0.798,0.168,0.009
+Transactivation of RNA,2.767,2.506,1.578,0.926,-0.502,-0.419
+Transcription of DNA,2.98,3.068,1.947,1.659,0.185,0.347
+Transcription of gene,2.286,2.261,1.738,0.825,0.423,-0.611
+Transcription of RNA,2.312,2.213,1.114,0.908,-0.199,-0.509
+Transcriptional and post-translational regulation of MITF-M expression and activity,,,-1,,,
+Transcriptional regulation by RUNX1,,,1,,,
+Transcriptional Regulation by VENTX,,,1,,,
+Transcriptional Regulatory Network in Embryonic Stem Cells,,,1,1,,
+Transendothelial migration of leukocytes,,,2.502,1.752,2.268,
+Translation of mRNA,-0.779,-1.998,,,,
+Translation of protein,-0.159,-1.998,,,,
+Translocation of protein,1.672,1.243,2.541,1.757,0.201,0.301
+Transmigration of cells,-0.083,,1.374,1.218,0.787,-0.083
+Transmigration of leukocytes,-0.536,,1.224,1.213,1.238,0.243
+Transmigration of mononuclear leukocytes,,,,,1.636,
+Transport of molecule,2.514,1.891,3.907,3.708,1.335,2.166
+Transport of protein,3.111,2.621,,,,
+TREM1 Signaling,2,,3.273,3.207,1.265,0.378
+TRIM21 Intracellular Antibody Signaling Pathway,2.333,1.342,3.153,2.673,0.333,0.378
+Tuberculosis Active Signaling Pathway,-2.449,-2.236,-1.121,-1.225,0.784,0.626
+Tuberculosis Latent Signaling Pathway,,,-0.816,-2,0,0
+Tubulation of endothelial cells,,-1.964,,,,
+Tumor Microenvironment Pathway,1.633,,2.183,1.667,1.265,0.707
+Tumorigenesis of lymphocytes,-0.811,-0.339,0.343,-0.333,1.13,-0.404
+"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",,,,1,,
+Type I Diabetes Mellitus Signaling,1.134,,1.528,0.905,-0.277,-0.447
+Type II Diabetes Mellitus Signaling,,,0,,-1,
+UFMylation Signaling Pathway,,,-1.633,,,
+Vascular lesion,-0.369,,1.308,,-0.013,-0.303
+Vascularization,,,1.227,,1.482,-0.363
+Vasculogenesis,-0.47,-2.047,0.287,0.278,-0.552,-1.455
+Vaso-occlusion,,,1.98,,1.086,1.112
+VEGF Signaling,,,-1,,-2,
+Viral Infection,-1.895,-2.193,-2.864,-2.578,-3.248,-3.429
+Viral life cycle,,,,-2.987,,
+Viral respiratory infection,,,-2.63,-2.213,-1.982,
+Visceromegaly,-0.044,,1.888,1.317,1.702,0.744
+Weight loss,,-1.091,0.972,,-0.26,
+WNT/β-catenin Signaling,,,-1,,0,-1.342
+Wound Healing Signaling Pathway,2.449,2,1.886,1.387,0.943,1.265
+Xenobiotic Metabolism AHR Signaling Pathway,,,1.342,,,
+Xenobiotic Metabolism General Signaling Pathway,,,-2,,,
+XIST Epigenetic Regulation Signaling Pathway,,,2.121,2.449,,
+Zn Homeostasis Signaling Pathway,0,,1.859,0.447,1.89,1.225
+Zoonosis,-2.19,,-2.262,-1.613,-0.932,-1.018

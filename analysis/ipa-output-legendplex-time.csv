@@ -1,0 +1,786 @@
+﻿Name,Succumbed.Middle,Survived.Middle,Succumbed.Late,Survived.Late
+LXR/RXR Activation,,,-2.236,
+IL-10 Signaling,,,-2,
+Lung Ionic Balance Signaling Pathway,,,,2
+Hematoma Resolution Signaling Pathway,,,-2.121,-1.134
+CGRP in Inflammation and Nociception Signaling Pathway,,,-2,-1.342
+Adrenergic Receptor Signaling Pathway (Enhanced),,,-2.236,-1.633
+FXR/RXR Activation,,,-2.236,-1.633
+Erythropoietin Signaling Pathway,,,-2.236,-1.633
+IL-12 Signaling and Production in Macrophages,,,1.342,1.633
+RAR Activation,,,-1.89,-1.633
+Differential Regulation of Cytokine Production in Intestinal Epithelial Cells by IL-17A and IL-17F,,,2,2.236
+IL-23 Signaling Pathway,,,2,2.236
+Dendritic Cell Maturation,,,2.236,2.236
+Th17 Activation Pathway,,,2.236,2.236
+Crosstalk between Dendritic Cells and Natural Killer Cells,,,2,2
+TRIM21 Intracellular Antibody Signaling Pathway,,,2,2
+Differential Regulation of Cytokine Production in Macrophages and T Helper Cells by IL-17A and IL-17F,,,2,2
+Tuberculosis Active Signaling Pathway,,,-2,-2
+IL-17A Signaling in Fibroblasts,,,2.449,2.236
+CDX Gastrointestinal Cancer Signaling Pathway,,,-1.342,-1.633
+Macrophage Classical Activation Signaling Pathway,,,2.828,2.333
+Pathogen Induced Cytokine Storm Signaling Pathway,,,2.828,2.333
+Interleukin-10 signaling,,,2.646,2.121
+Class A/1 (Rhodopsin-like receptors),,,2.449,1.89
+NAFLD Signaling Pathway,,,2.236,1.633
+Cachexia Signaling Pathway,,,2.236,1.633
+Autism Signaling Pathway,,,2.236,1.633
+Cardiac Hypertrophy Signaling (Enhanced),,,2.236,1.633
+NOD1/2 Signaling Pathway,,,2.236,1.633
+Communication between Innate and Adaptive Immune Cells,,,2.236,1.633
+CGAS-STING Signaling Pathway,,,2.236,1.633
+Systemic Lupus Erythematosus in B Cell Signaling Pathway,,,2.236,1.633
+Parkinson's Signaling Pathway,,,2.236,1.633
+Hepatic Cholestasis,,,2.236,1.633
+Hepatitis B Chronic Liver Pathogenesis Signaling Pathway,,,2.646,2
+Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza,,,2,1.342
+G alpha (i) signalling events,,,2,1.342
+HMGB1 Signaling,,,2.646,1.89
+Wound Healing Signaling Pathway,,,2.449,1.633
+Irritable Bowel Syndrome Signaling Pathway,,,3,2.121
+Multiple Sclerosis Signaling Pathway,,,2.828,1.89
+Glycation Signaling Pathway,,,2.828,1.89
+Role of MAPK Signaling in Inhibiting the Pathogenesis of Influenza,,,2,1
+SLAMF Signaling Pathway,,,2,1
+Hepatic Fibrosis Signaling Pathway,,,2,1
+ID1 Signaling Pathway,,,1,
+Coronavirus Pathogenesis Pathway,,,1,0
+IL-17 Signaling,,,2.646,1.633
+Role of Osteoblasts in Rheumatoid Arthritis Signaling Pathway,,,2.646,1.633
+S100 Family Signaling Pathway,,,3,1.89
+Role of Tissue Factor in Cancer,,,2.236,1
+"Role of Macrophages, Fibroblasts and Endothelial Cells in Rheumatoid Arthritis",,,2.236,1
+TREM1 Signaling,,,2.236,1
+Pulmonary Hypertension Signaling Pathway,,,2.236,1
+Interleukin-4 and Interleukin-13 signaling,,,1,-0.378
+Tumor Microenvironment Pathway,,,2.449,1
+Neutrophil Extracellular Trap Signaling Pathway,,,2.449,1
+IL-33 Signaling Pathway,,,2.828,1.342
+Sheddase Signaling Pathway,,,1.633,
+Atherosclerosis Signaling,,,1.633,0
+Preeclampsia Signaling Pathway,,,1.633,
+Cyclophilin Signaling Pathway,,,2.646,1
+Pulmonary Healing Signaling Pathway,,,2,
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by IGFBPs,,,2,
+Acute Phase Response Signaling,,,2,
+Neutrophil degranulation,,,2,
+IL-8 Signaling,,,2,
+Pulmonary Fibrosis Idiopathic Signaling Pathway,,,2,
+Immunogenic Cell Death Signaling Pathway,,,2,
+Regulation of the Epithelial Mesenchymal Transition by Growth Factors Pathway,,,2,
+HIF1α Signaling,,,2,
+Airway Pathology in Chronic Obstructive Pulmonary Disease,,,2,
+Neuroinflammation Signaling Pathway,,,2.449,0.447
+Role of Chondrocytes in Rheumatoid Arthritis Signaling Pathway,,,2.236,
+Activin Inhibin Signaling Pathway,,,2.236,
+Colorectal Cancer Metastasis Signaling,,,2.236,
+Serotonin Receptor Signaling,,,1.342,-1
+RBP4 in Immune and Metabolic Regulation Signaling Pathway,,,2.646,
+Inflammatory response,2.152,,3.949,3.299
+Chemotaxis,2.166,,3.488,3.069
+Cell movement of mononuclear leukocytes,,,4,3.062
+Activation of cells,,,3.713,3.04
+Migration of macrophages,,,2.822,2.988
+Migration of antigen presenting cells,1.226,,2.826,2.972
+Lymphocyte migration,,,3.746,2.958
+Attraction of antigen presenting cells,,,2.779,2.923
+Activation of leukocytes,,,3.412,2.89
+Cell movement of macrophages,,,2.956,2.84
+Migration of tumor cell lines,1.852,,3.537,2.823
+Chemotaxis of myeloid cells,,,3.08,2.808
+Binding of lymphocytes,,,3.138,2.805
+Activation of macrophages,1.891,,3.481,2.78
+Cell movement of T lymphocytes,1.955,,3.42,2.77
+Cellular infiltration by mononuclear leukocytes,,,3.372,2.755
+Attraction of leukocytes,,,3.244,2.753
+Adhesion of lymphocytes,,,3.067,2.733
+Influx of leukocytes,,,2.907,2.733
+T cell response,,,3.022,2.694
+Activation of myeloid cells,1.404,,3.534,2.688
+Chemotaxis of mononuclear leukocytes,,,3.07,2.677
+Recruitment of leukocytes,1.79,,3.845,2.657
+Migration of dendritic cells,,,2.467,2.655
+Quantity of Ca2+,1.944,,3.287,2.628
+Invasion of carcinoma cell lines,1.697,,3.233,2.628
+Influx of phagocytes,,,,2.623
+Transport of molecule,0.23,,2.666,2.619
+Influx of myeloid cells,,,,2.619
+Synthesis of nitric oxide,,,2.733,2.586
+Attraction of macrophages,,,2.425,2.58
+Movement of CD4+ T-lymphocytes,,,2.898,2.571
+Maturation of dendritic cells,,,2.575,2.57
+Activation of microglia,,,2.906,2.555
+Secretion of molecule,1.291,,2.952,2.543
+Secretion of protein,1.27,,2.941,2.51
+Binding of T lymphocytes,,,2.506,2.506
+Activation of T lymphocytes,,,2.902,2.497
+Chemoattraction,,,3.071,2.49
+Cellular infiltration by leukocytes,1.183,,3.459,2.475
+Attraction of phagocytes,1.915,,3.073,2.473
+Cytotoxicity of leukocytes,,,1.818,2.464
+Clearance of bacteria,,,2.423,2.442
+Influx of neutrophils,1.982,,2.621,2.425
+Response of helper T lymphocytes,,,2.425,2.425
+Activation of protein binding site,,,2.76,2.406
+Stimulation of mononuclear leukocytes,,,2.602,2.404
+Migration of neural cells,,,2.585,2.401
+Cell movement of phagocytes,1.092,,3.031,2.4
+Cellular infiltration by inflammatory leukocytes,,,2.586,2.4
+Accumulation of antigen presenting cells,,,,2.4
+Activation of monocytes,,,2.399,2.399
+Release of reactive oxygen species,,,2.395,2.395
+Activation of neuroglia,,,3.065,2.394
+Induction of mRNA,,,2.353,2.39
+Induction of gene,,,,2.39
+Internalization of protein,,,3.128,2.379
+Adhesion of T lymphocytes,,,2.372,2.372
+Immune response of cells,1.021,,2.705,2.363
+Immune response of lymphocytes,,,2.934,2.354
+Immune response of T lymphocytes,,,2.765,2.354
+Attraction of myeloid cells,,,2.94,2.35
+Migration of phagocytes,1.285,,2.889,2.342
+Cytotoxicity of lymphocytes,,,,2.318
+Recruitment of mononuclear leukocytes,,,3.021,2.317
+Cell movement of antigen presenting cells,,,2.448,2.303
+Chemoattraction of leukocytes,,,2.904,2.3
+Activation of phagocytes,0.637,,2.915,2.276
+Chemotaxis of T lymphocytes,,,2.639,2.268
+Cell proliferation of fibroblasts,,,1.732,2.254
+Activation of dendritic cells,,,2.31,2.241
+Attraction of mononuclear leukocytes,,,2.78,2.233
+Transcription of gene,,,,2.23
+Chemotaxis of phagocytes,1.121,,2.463,2.228
+Recruitment of T lymphocytes,,,2.74,2.226
+Release of arachidonic acid,,,2.226,2.226
+Recruitment of Th1 cells,,,2.219,2.219
+Response of Th1 cells,,,1.982,2.219
+Stimulation of T lymphocytes,,,2.432,2.218
+Stimulation of lymphocytes,,,2.432,2.217
+Mobilization of cells,,,2.977,2.209
+Proliferation of blood cells,,,1.534,2.205
+Antimicrobial response,,,2.763,2.204
+Proliferation of interstitial cells,,,2.401,2.2
+Cell movement of microglia,,,2.2,2.2
+Migration of CD4+ T-lymphocytes,,,2.172,2.2
+Cytotoxicity of T lymphocytes,,,1.4,2.2
+Activation of gene,1.941,,3.717,2.197
+Migration of pericytes,,,2.197,2.197
+Cell movement of epithelial cells,,,3.111,2.196
+Cell movement of granulocytes,1.461,,2.813,2.193
+Differentiation of PBMCs,,,1.897,2.193
+Inhibition of cells,,,2.192,2.192
+Killing of bacteria,,,2.579,2.188
+Chemotaxis of granulocytes,,,2.691,2.187
+Activation of innate lymphoid cells,,,1.948,2.187
+Priming of mononuclear leukocytes,,,1.966,2.186
+Necrosis,1.311,,2.399,2.181
+Apoptosis of vascular endothelial cells,,,,2.179
+Maturation of myeloid cells,,,2.39,2.177
+Accumulation of macrophages,,,,2.176
+Accumulation of leukocytes,1.926,,2.641,2.174
+Adhesion of eosinophils,,,2.375,2.174
+Accumulation of lymphatic system cells,,,1.529,2.174
+Accumulation of lymphoid cells,,,1.529,2.174
+Accumulation of mononuclear leukocytes,,,1.534,2.172
+Delayed hypersensitive reaction,,,1.4,2.172
+Activation of natural killer cells,,,,2.172
+Interaction of eosinophils,,,2.368,2.17
+Chemotaxis of leukemia cell lines,,,2.17,2.17
+Chemoattraction of macrophages,,,1.982,2.169
+Adhesion of mononuclear leukocytes,,,,2.169
+Differentiation of naive T lymphocytes,,,2.379,2.168
+Activation of eosinophils,,,2.373,2.166
+Cell viability of eosinophils,,,2.164,2.164
+Repression of mRNA,,,2.358,2.163
+Repression of gene,,,,2.161
+Increased blood pressure,,,,2.16
+Proliferation of CD8+ T lymphocyte,,,2.159,2.159
+Activation of granulocytes,,,2.723,2.157
+Toxicity process,,,2.342,2.155
+Inhibition of mRNA,,,2.546,2.154
+Binding of mononuclear leukocytes,,,,2.144
+Stimulation of tumor cell lines,,,2.353,2.142
+Accumulation of T lymphocytes,,,1.429,2.121
+Mobilization of leukocytes,,,2.635,2.12
+Recruitment of macrophages,,,2.892,2.119
+Chemoattraction of myeloid cells,,,2.761,2.108
+Cell death of epithelial cells,1.732,,1.447,2.108
+Stimulation of leukocytes,,,2.934,2.095
+Polarization of cells,,,2.737,2.092
+Synthesis of mRNA,,,2.067,2.088
+Migration of breast cancer cell lines,,,3.132,2.08
+Migration of connective tissue cells,,,2.282,2.077
+Homeostasis of mononuclear leukocytes,,,,2.076
+Growth of connective tissue,,,1.936,2.075
+Growth of somatic cells,,,2.595,2.055
+Proliferation of somatic cells,,,2.595,2.055
+Cell movement of carcinoma cell lines,,,2.717,2.054
+Dendropoiesis,,,2.05,2.05
+Adhesion of immune cells,0.985,,2.74,2.048
+Immune response of leukocytes,,,2.761,2.047
+Hematopoiesis of mononuclear leukocytes,,,1.668,2.037
+Inflammation of absolute anatomical region,0.57,,1.76,2.032
+Chemotaxis of tumor cell lines,,,2.584,2.03
+Degranulation,,,2.754,2.021
+Binding of DNA,,,,2.018
+Attraction of T lymphocytes,,,2.599,2.017
+Hypersensitive reaction,,,1.55,2.01
+Maturation of macrophages,,,2.236,2
+Migration of memory T lymphocytes,,,2,2
+Differentiation of splenocytes,,,,2
+Proliferation of peripheral blood lymphocytes,,,,2
+Induction of mononuclear leukocytes,,,2.235,1.998
+Polarization of blood cells,,,2.549,1.996
+Induction of lymphatic system cells,,,2.229,1.993
+Signaling of cells,,,1.993,1.993
+Infiltration by T lymphocytes,,,2.198,1.985
+Inflammation of central nervous system,,,1.736,1.985
+Experimental autoimmune myocarditis,,,2.219,1.982
+Proliferation of mesangial cells,,,2.2,1.982
+Regulation of myeloid cells,,,1.982,1.982
+Response of monocytes,,,1.982,1.982
+Migration of microglia,,,1.982,1.982
+Cell viability of antigen presenting cells,,,,1.982
+Chemotaxis of connective tissue cells,,,,1.981
+Cell death of somatic cells,,,2.582,1.976
+Cellular homeostasis,,,2.919,1.972
+Adhesion of lung cells,,,2.195,1.972
+Movement of macrophage cancer cell lines,,,1.972,1.972
+Release of superoxide,,,1.972,1.972
+Response of endothelial cells,,,2.42,1.969
+Expansion of bone marrow cells,,,2.412,1.969
+Migration of bone marrow cells,,,2.19,1.969
+Proliferation of microglia,,,1.964,1.964
+Myocarditis,,,1.964,1.964
+Chemotaxis of lymphoma cell lines,,,1.964,1.964
+Cellular infiltration by myeloid cells,,,2.516,1.962
+Cellular infiltration by monocytes,,,1.961,1.961
+Differentiation of macrophages,,,1.681,1.96
+Activation of leukocyte cell lines,,,,1.96
+Cell viability of leukocytes,,,2.534,1.959
+Proliferation of neural cells,,,2.747,1.958
+Sensitization of cells,,,2.172,1.958
+Activation of NFkB binding site,,,2.382,1.957
+Release of eicosanoid,,,2.433,1.954
+Priming of T lymphocytes,,,,1.953
+Activation of smooth muscle cells,,,1.951,1.951
+Activation of peripheral blood monocytes,,,1.951,1.951
+Biosynthesis of amide,,,,1.951
+Cell viability of phagocytes,,,2.166,1.949
+Induction of macrophages,,,1.949,1.949
+Concentration of prostaglandin E2,,,,1.949
+Cell movement of neutrophils,1.961,,2.767,1.948
+Adhesion of connective tissue cells,,,2.4,1.946
+Chemotaxis of monocytes,,,2.554,1.944
+Cell movement of splenocytes,,,,1.941
+Differentiation of bone marrow-derived macrophages,,,1.301,1.939
+Attraction of monocytes,,,2.36,1.934
+Stimulation of astrocytes,,,1.934,1.934
+Generation of superoxide,,,,1.934
+Apoptosis of liver cells,,,1.48,1.929
+Migration of epithelial cells,,,2.939,1.927
+Priming of leukocytes,,,2.377,1.924
+Migration of peritoneal macrophages,,,1.922,1.922
+Synthesis of prostaglandin E2,,,,1.92
+Apoptosis of HUVEC cells,,,,1.918
+Attraction of memory T lymphocytes,,,2.433,1.912
+Cell-mediated response of T lymphocytes,,,2.412,1.912
+Migration of carcinoma cell lines,,,2.57,1.906
+Tyrosine phosphorylation of protein,,,2.835,1.905
+Inflammation of liver,,,1.903,1.903
+Induction of leukocytes,,,2.437,1.898
+Metabolism of membrane lipid derivative,,,,1.891
+Binding of tumor cell lines,,,2.308,1.888
+Chemoattraction of phagocytes,,,2.574,1.887
+Atherosclerosis,,,2.709,1.885
+Accumulation of mRNA,,,,1.882
+Transmigration of leukocytes,,,2.423,1.881
+Proliferation of macrophages,,,2.102,1.877
+Biosynthesis of carboxylic acid,,,2.714,1.876
+Proliferation of tumor cells,,,2.92,1.874
+Expression of mature microRNA,,,,1.868
+Lower respiratory tract disorder,,,2.323,1.866
+Quantity of neutrophils,,,1.329,1.859
+Expansion of lymphatic system cells,,,2.283,1.854
+Adhesion of granulocytes,,,2.628,1.852
+Proinflammatory response,,,2.606,1.85
+Activation of helper T lymphocytes,,,2.067,1.85
+Atherosclerotic lesion,,,2.171,1.842
+Mobilization of granulocytes,,,2.418,1.841
+Cell movement of dendritic cells,,,2.005,1.837
+Aggregation of blood cells,,,2.297,1.835
+Quantity of lesion,,,1.892,1.823
+Proliferation of lymphatic system cells,,,1.524,1.816
+Proliferation of immune cells,,,1.185,1.813
+Accumulation of phagocytes,,,2.621,1.812
+Cell movement of peripheral blood leukocytes,,,2.925,1.81
+Adhesion of endothelial cells,,,2.601,1.801
+Recruitment of neutrophils,1.406,,3.111,1.796
+Concentration of eicosanoid,,,1.796,1.796
+Concentration of protein,,,,1.795
+Transendothelial migration of leukocytes,,,2.166,1.793
+Fibrogenesis,,,2.148,1.792
+Quantity of lymphocytes,,,1.108,1.785
+Steroid metabolism,,,1.716,1.783
+Recruitment of monocytes,,,2.561,1.782
+Adhesion of tumor cell lines,,,2.072,1.773
+Experimentally-induced arthritis,,,1.655,1.768
+Migration of peripheral blood leukocytes,,,2.592,1.761
+Cell viability of granulocytes,,,1.757,1.757
+Differentiation of mononuclear leukocytes,,,,1.755
+Endocytosis,1.067,,2.245,1.754
+Cell movement of leukemia cell lines,,,2.577,1.751
+Cellular infiltration by phagocytes,,,2.49,1.749
+Activation of neutrophils,,,2.203,1.742
+Proliferation of T lymphocytes in spleen,,,1.204,1.74
+Adhesion of myeloid cells,,,2.565,1.735
+Apoptosis of epithelial cells,,,0.712,1.731
+Chemotaxis of neutrophils,,,2.311,1.729
+Cell movement of memory T lymphocytes,,,1.729,1.729
+Cell-mediated response,,,2.252,1.718
+Degranulation of phagocytes,,,2.587,1.716
+Degranulation of myeloid cells,,,2.587,1.716
+Discomfort,,,1.982,1.713
+Priming of myeloid cells,,,2.38,1.711
+Chronic inflammatory disorder,,,1.979,1.711
+Distribution of protein,,,2.556,1.707
+Mobilization of bone marrow cells,,,2.2,1.706
+TH1 immune response,,,2.155,1.703
+Transmigration of phagocytes,,,2.267,1.7
+Necrosis of liver,,,1.245,1.7
+Vascularization of tumor,,,2.2,1.698
+Stimulation of leukemia cell lines,,,1.961,1.698
+Apoptosis of lung cell lines,,,,1.695
+Quantity of regulatory T lymphocytes,,,,1.689
+Recruitment of granulocytes,,,2.869,1.68
+Hematopoiesis of phagocytes,,,1.275,1.674
+Synthesis of eicosanoid,,,2.375,1.673
+Apoptosis of muscle cells,,,1.336,1.673
+Cell movement of CD4+ T-lymphocytes,,,,1.673
+Release of metal,,,2.588,1.667
+Differentiation of phagocytes,,,1.337,1.665
+Migration of effector lymphocytes,,,2.219,1.664
+Glucose metabolism disorder,,,,1.663
+Stimulation of myeloid cells,,,2.6,1.656
+Cell death of lymphocytes,,,1.371,1.639
+Proliferation of hematopoietic progenitor cells,,,1.712,1.638
+Transmigration of mononuclear leukocytes,,,2.37,1.635
+Differentiation of helper T lymphocytes,,,,1.634
+Production of reactive oxygen species,,,2.767,1.629
+Binding of protein binding site,,,,1.627
+Cellular infiltration by granulocytes,,,2.138,1.619
+Inflammation of cells,,,2.581,1.615
+Cell movement of progenitor cells,,,1.979,1.604
+Differentiation of myeloid leukocytes,,,1.337,1.604
+Chemotaxis of antigen presenting cells,,,1.289,1.6
+Proliferation of cancer cells,,,2.664,1.596
+Communication of cells,,,1.593,1.593
+Cell movement of monocytes,,,2.352,1.591
+Organization of cytoskeleton,,,3.014,1.584
+Experimental autoimmune encephalomyelitis,,,1.565,1.582
+Polarization of leukocytes,,,,1.574
+Formation of actin filaments,,,,1.571
+Inflammatory response of cells,,,2.198,1.57
+Activation of cytotoxic T cells,,,2.156,1.561
+Binding of granulocytes,,,1.945,1.549
+Musculoskeletal lesion,,,1.926,1.549
+Localization of protein-protein complex,,,1.888,1.549
+Activation of astrocytes,,,2.411,1.534
+Respiratory burst of myeloid cells,,,2.173,1.524
+Expansion of myeloid cells,,,1.809,1.524
+Inflammation of joint,,,1.492,1.522
+Mobilization of neutrophils,,,2.2,1.516
+Binding of lung cells,,,1.756,1.516
+Expansion of cells,,,1.972,1.514
+Quantity of macrophages,,,1.628,1.513
+Chemotaxis of eosinophils,,,1.946,1.509
+Migration of leukemia cell lines,,,2.401,1.507
+Damage of kidney,,,1.498,1.498
+Quantity of dendritic cells,,,1.739,1.495
+Induction of myeloid cells,,,2.154,1.491
+Mobilization of Ca2+,,,2.064,1.482
+Cellular infiltration by antigen presenting cells,,,1.69,1.478
+Metabolism of carbohydrate,,,,1.477
+Cell viability of myeloid cells,,,2.284,1.476
+Priming of phagocytes,,,1.986,1.475
+Quantity of mononuclear leukocytes,,,0.664,1.471
+Chemoattraction of monocytes,,,1.953,1.455
+Neovascularization,,,2.26,1.452
+Hemostasis,,,,1.452
+Proliferation of connective tissue cells,0.532,,1.733,1.45
+Attraction of neutrophils,,,2.607,1.446
+Quantity of peripheral blood leukocytes,,,1.751,1.446
+Emigration of leukocytes,,,1.706,1.446
+Activation of mast cells,,,1.446,1.446
+Apoptosis,0.929,,1.418,1.446
+Adhesion of phagocytes,,,2.347,1.442
+Quantity of phagocytes,0.046,,1.093,1.442
+Quantity of myeloid cells,0.021,,0.944,1.442
+Apoptosis of smooth muscle cells,,,,1.442
+Arterial lesion,,,2.26,1.436
+Phagocytosis,,,1.421,1.434
+Formation of vascular lesion,,,2.2,1.432
+Quantity of reactive oxygen species,,,,1.432
+Cellular infiltration by macrophages,,,1.849,1.428
+Inflammation of organ,0.949,,1.982,1.422
+Binding of myeloid cells,0.272,,1.918,1.419
+Neuronal cell death,,,1.628,1.414
+Activation of tumor cell lines,,,,1.406
+Inflammation of respiratory system component,,,,1.404
+Apoptosis of leukocyte cell lines,,,1.715,1.4
+Priming of granulocytes,,,2.173,1.397
+Release of Ca2+,,,,1.397
+Monocytopoiesis,,,1.084,1.394
+Damage of bone,,,,1.392
+Cell movement of PBMCs,,,2.377,1.391
+Permeability of vasculature,,,,1.389
+Adhesion of HUVEC cells,,,2.359,1.386
+Cell movement of hematopoietic progenitor cells,,,1.759,1.373
+Formation of filopodia,,,,1.367
+Migration of smooth muscle cells,1.674,,2.293,1.362
+Respiratory burst of leukocytes,,,2.171,1.362
+NK cell migration,,,1.988,1.362
+Stimulation of phagocytes,,,2.398,1.358
+Cellular infiltration by eosinophils,,,1.069,1.353
+Growth of blood vessel,,,2.527,1.35
+Quantity of T lymphocytes,,,0.621,1.35
+Cell movement of connective tissue cells,,,2.026,1.348
+Attraction of effector lymphocytes,,,2,1.342
+TH1 immune response of T lymphocytes,,,2,1.342
+Influx of Ca2+,,,,1.34
+Migration of myeloid cells,,,2.017,1.31
+Stimulation of connective tissue cells,,,1.609,1.307
+Expansion of blood cells,,,1.612,1.305
+Migration of vascular smooth muscle cells,,,2.178,1.304
+Adhesion of neutrophils,,,2.212,1.302
+Fever,,,,1.302
+Proliferation of memory T lymphocytes,,,1.287,1.287
+Shock response,,,2.164,1.283
+Chemoattraction of granulocytes,,,2.415,1.28
+Shape change of myeloid cells,,,,1.274
+Shape change of leukocytes,,,,1.274
+Polarization of leukocyte cell lines,,,,1.274
+Migration of leukocyte cell lines,,,2.183,1.27
+Respiratory burst of phagocytes,,,1.954,1.268
+Stimulation of granulocytes,,,2.38,1.265
+Migration of PBMCs,,,2.195,1.264
+Expansion of helper T lymphocytes,,,1.609,1.264
+Proliferation of phagocytes,,,0.974,1.258
+Proliferation of myeloid cells,,,1.486,1.251
+Airway hyperresponsiveness,,,0.624,1.249
+Synthesis of leukotriene,,,,1.248
+Development of PBMCs,,,1.513,1.246
+Response of myeloid leukocytes,,,2.104,1.235
+Development of Th17 cells,,,1.583,1.235
+Attraction of Th1 cells,,,,1.235
+Cell movement of eosinophils,,,1.428,1.227
+Engulfment of cells,,,1.211,1.226
+Binding of endothelial cells,,,2.105,1.222
+Fibrosis,,,0.473,1.218
+Migration of vascular cells,,,2.522,1.217
+Response of granulocytes,,,2.106,1.215
+Expansion of phagocytes,,,1.478,1.206
+Activation of pericytes,,,1.772,1.201
+Migration of hematopoietic progenitor cells,,,1.199,1.199
+Adhesion of cord blood cells,,,1.199,1.199
+Damage of digestive system,,,,1.199
+Psoriasis,,,1.195,1.195
+Immune response of myeloid cells,,,2.049,1.188
+Accumulation of myeloid cells,1.683,,1.903,1.179
+Stimulation of eosinophils,,,,1.179
+Damage of mitochondria,,,,1.176
+Quantity of connective tissue,,,1.632,1.174
+Polyarthritis,,,1.499,1.173
+Apoptosis of somatic cells,0.608,,1.414,1.173
+Adhesion of monocytes,,,2.394,1.171
+Transmigration of myeloid cells,,,1.697,1.168
+Collagen-induced arthritis,,,1.494,1.167
+Synthesis of leukotriene B4,,,,1.165
+Concentration of lipid,0.984,,1.921,1.164
+Cell death of mononuclear leukocytes,,,0.941,1.158
+Phagocytosis of neutrophils,,,1.156,1.156
+Cell death of cerebral cortex cells,,,,1.155
+Stimulation of smooth muscle cells,,,1.969,1.154
+Stimulation of endothelial cells,,,,1.154
+Allergy,,,1.236,1.153
+Chronic disease,,,1.341,1.14
+Proliferation of CD4+ T-lymphocytes,,,0.595,1.139
+Deterioration of connective tissue,,,1.961,1.138
+Transendothelial migration of granulocytes,,,1.503,1.135
+Transendothelial migration of neutrophils,,,1.503,1.135
+Hydrolysis of lipid,,,,1.121
+Permeability of vascular endothelial cells,,,,1.12
+Activation of CD4+ T-lymphocytes,,,1.473,1.109
+Differentiation of epithelial tissue,,,1.367,1.109
+Demyelination of spinal cord,,,0.762,1.109
+Demyelination of central nervous system,,,0.762,1.109
+Apoptosis of airway epithelial cells,,,,1.106
+Co-localization of protein,,,2.052,1.103
+Migration of fibroblast-like synoviocytes,,,1.103,1.103
+Suppression of blood cells,,,,1.103
+Priming of neutrophils,,,,1.095
+Chemotaxis of peripheral blood leukocytes,,,,1.077
+Quantity of lymphoid organ,,,,1.077
+Cell movement of keratinocytes,,,1.969,1.067
+Proliferation of synovial cells,,,1.387,1.067
+Chemotaxis of peripheral blood monocytes,,,,1.067
+Apoptosis of lung cells,,,1.066,1.066
+Chemoattraction of T lymphocytes,,,1.941,1.062
+Expansion of leukocytes,,,1.397,1.061
+Assembly of protein-protein complex,,,,1.06
+Clearance of virus,,,,1.021
+Outgrowth of cells,,,2.064,1.016
+Immune response of neutrophils,,,1.911,1.014
+Binding of NFkB binding site,,,,1.007
+Immune response of phagocytes,,,1.885,1.004
+Adhesion of peripheral blood neutrophils,,,2,1
+Chemotaxis of cord blood cells,,,,1
+Chemotaxis of hematopoietic progenitor cells,,,,1
+Activation of inflammatory leukocytes,,,,1
+Inflammatory response of leukocytes,,,,1
+Inflammation of body cavity,,,1.071,0.997
+Accumulation of neutrophils,,,2.074,0.992
+Activation of connective tissue cells,,,1.784,0.992
+Cell movement of leukocyte cell lines,,,2.183,0.966
+Infiltration by neutrophils,,,1.747,0.96
+Binding of macrophages,,,1.253,0.958
+Flux of ion,,,1.713,0.954
+Flux of Ca2+,,,1.709,0.944
+Binding of neutrophils,,,1.856,0.942
+Interaction of neutrophils,,,1.856,0.942
+Proliferation of progenitor cells,,,1.024,0.94
+Binding of vascular endothelial cells,,,1.79,0.934
+Binding of professional phagocytic cells,,,1.787,0.929
+Permeability of vascular system,,,1.931,0.921
+Vasculogenesis,-0.002,,1.942,0.92
+Demyelination of cells,,,1.264,0.9
+Cell movement of cancer cells,,,2.401,0.896
+Vascularization of absolute anatomical region,,,1.43,0.896
+Extravasation of myeloid cells,,,1.387,0.896
+Extravasation of phagocytes,,,1.387,0.896
+Interaction of monocytes,,,1.951,0.865
+Chemoattraction of neutrophils,,,2.219,0.863
+Movement of effector lymphocytes,,,1.452,0.861
+Accumulation of granulocytes,,,1.833,0.848
+Binding of monocytes,,,1.951,0.839
+Activation of liver cells,,,1.507,0.819
+Cell movement of cytotoxic T cells,,,1.342,0.816
+Growth of solid tumor,,,1.49,0.805
+Hepatic injury,,,1.114,0.802
+Liver Damage,,,1.026,0.769
+Transmigration of granulocytes,,,1.289,0.75
+Damage of lung,0.508,,1.22,0.734
+Migration of neutrophils,,,1.723,0.718
+Development of connective tissue cells,,,1.01,0.707
+Cell death of immune cells,-0.728,,1.427,0.698
+Growth of malignant tumor,,,1.662,0.694
+Damage of vascular system,,,1.903,0.66
+Differentiation of progenitor cells,,,1.065,0.656
+Migration of monocytes,,,1.49,0.649
+Cell movement of endothelial cells,,,2.395,0.615
+Differentiation of hematopoietic progenitor cells,,,1.013,0.605
+Proliferation of pericytes,,,1.053,0.594
+Proliferation of smooth muscle cells,,,2.272,0.587
+Production of superoxide,,,1.504,0.517
+Cell death of neuroglia,,,1.185,0.502
+Transmigration of monocytes,,,1.213,0.485
+Dermatitis,,,1.608,0.467
+Activation of hepatic stellate cells,,,1.225,0.397
+Activation of osteoclasts,,,1.052,0.339
+Replication of HIV-1,,,1.135,0.334
+Migration of granulocytes,0,,1.085,0.327
+Proliferation of muscle cells,1.122,,1.976,0.32
+Chemotaxis of endothelial cells,,,1.414,0.291
+Extrahepatic metastasis,,,1.624,0.188
+Reactivity of airway,,,1.151,0.164
+Angiogenesis of lesion,,,1.016,0.152
+Uptake of 2-deoxyglucose,,,1.034,0.142
+Migration of endothelial cells,,,2.019,0.012
+Proliferation of stromal cells,,,1.243,-0.061
+Growth of neurites,,,1.274,-0.062
+Survival of organism,-1.472,,-0.907,-0.267
+Infection by RNA virus,,,-1.126,-0.504
+Non-malignant disorder,,,-1.035,-0.737
+Differentiation of stem cells,,,-1.056,-0.742
+Infection by Bacilli,,,-1.264,-0.849
+Proliferation of bone marrow precursor cells,,,-1.387,-0.896
+Differentiation of dental pulp,,,-1.266,-0.981
+Differentiation of tooth cells,,,-1.266,-0.981
+Chemotaxis of HMEC cells,,,,-1
+Uptake of D-glucose,,,,-1.106
+Advanced extracranial solid tumor,,,0.615,-1.198
+Activation of cytomegalovirus,,,-1.236,-1.236
+Differentiation of dental pulp stem cells,,,-1.607,-1.336
+Binding of cell surface,,,,-1.342
+Apoptosis of peripheral blood leukocytes,,,-0.728,-1.387
+Cell proliferation of HUVEC cells,,,,-1.4
+Cell proliferation of vascular endothelial cells,,,-0.906,-1.823
+Efflux of cholesterol,,,-1.471,-1.9
+Quantity of bacteria,,,-1.329,-1.902
+Infection by enterobacteriaceae,,,,-1.949
+Infection of lung,,,-1.524,-1.966
+Survival of bacteria,,,,-1.997
+Quantity of smooth muscle cells,,,,-2
+Growth of bacteria,,,-1.605,-2.104
+Zoonosis,,,-1.34,-2.195
+Infection of mammalia,,,-2.008,-2.441
+Cell movement,,,4.018,
+Migration of cells,,,3.894,
+Cell movement of tumor cell lines,,,3.833,
+Invasion of tumor cell lines,,,3.553,
+Recruitment of phagocytes,,,3.447,
+Cell movement of breast cancer cell lines,,,3.377,
+Invasion of cells,2.087,,3.278,
+Binding of somatic cells,,,3.237,
+Response of lymphocytes,,,3.17,
+Stimulation of cells,,,3.096,
+Cell movement of myeloid cells,,,3.09,
+Transactivation of gene,,,2.934,
+Cell-cell contact,,,2.899,
+Metabolism of reactive oxygen species,,,2.838,
+Mobilization of blood cells,,,2.792,
+Translocation of protein,,,2.791,
+Cell movement of neuroglia,,,2.768,
+Proliferation of vascular smooth muscle cells,,,2.748,
+Cellular infiltration by lymphocytes,,,2.678,
+Chemotaxis of lymphocytes,,,2.636,
+Homing of lymphatic system cells,,,2.636,
+Transmigration of cells,,,2.628,
+Innate immune response,,,2.607,
+Induction of cells,,,2.606,
+Generation of reactive oxygen species,,,2.574,
+Recruitment of lymphocytes,,,2.556,
+Synthesis of fatty acid,,,2.55,
+Growth of lesion,,,2.549,
+Size of lesion,,,2.437,
+Disrupted blood brain barrier,,,2.429,
+Binding of epithelial cells,,,2.412,
+Metabolism of hydrogen peroxide,,,2.408,
+Maturation of cells,,,2.402,
+Migration of neuroglia,,,2.401,
+Synthesis of protein,1.288,,2.396,
+Fusion of cells,,,2.348,
+Cell movement of smooth muscle cells,,,2.331,
+Vascularization,,,2.32,
+Shape change of tumor cell lines,,,2.285,
+Binding of U937 cells,,,2.231,
+Inflammation of endothelial cells,,,2.216,
+Abnormality of limb,,,2.214,
+Cell movement of lymphoma cell lines,,,2.208,
+Cell movement of vascular smooth muscle cells,,,2.207,
+Induction of phagocytes,,,2.196,
+Formation of vessel,,,2.19,
+Stimulation of central nervous system cells,,,2.187,
+Formation of reactive oxygen species,,,2.184,
+Stimulation of macrophages,,,2.184,
+Cell movement of bone marrow cells,,,2.179,
+Activation of endothelial cells,,,2.174,
+Generation of oxygen radical,,,2.158,
+Quantity of neuroglia,,,2.077,
+Occlusion of artery,,,2.074,
+Invasion of solid tumor,,,2.072,
+Proliferation of helper T lymphocytes,,,2.041,
+Synthesis of lipid,-0.1,,2.011,
+Proliferation of vascular cells,0.863,,2.005,
+Activation of monocyte-derived dendritic cells,,,2,
+Chemotaxis of neuroglia,,,2,
+Growth of vascular lesion,,,2,
+Abnormality of adipose tissue,,,2,
+Formation of hydrogen peroxide,,,2,
+Activation of immature dendritic cells,,,1.997,
+Permeability of tight junctions,,,1.996,
+Permeability of colorectal cancer cell lines,,,1.993,
+Stimulation of epithelial cells,,,1.988,
+Reactivation of Herpesviridae,,,1.987,
+Recruitment of dendritic cells,,,1.987,
+Accumulation of anion,,,1.982,
+Quantity of nitrite,,,1.982,
+Regulation of cells,,,1.982,
+Shedding of cells,,,1.981,
+Stimulation of hepatoma cell lines,,,1.98,
+Neurogenesis of neural stem cells,,,1.98,
+Differentiation of peripheral T lymphocyte,,,1.969,
+Nitration of protein,,,1.969,
+Synthesis of hyaluronic acid,,,1.966,
+Transmigration of neutrophils,,,1.966,
+Catabolism of proteoglycan,,,1.965,
+Formation of blood vessel,,,1.96,
+Stimulation of CD4+ T-lymphocytes,,,1.955,
+Production of hydrogen peroxide,,,1.954,
+Chemotaxis of macrophages,,,1.953,
+Induction of helper T lymphocytes,,,1.953,
+Binding of interferon-gamma activated sequence,,,1.951,
+Sensitization of macrophages,,,1.951,
+Binding of Sis-inducible element,,,1.948,
+Apoptosis of vascular cells,,,1.946,
+Liver Regeneration,,,1.941,
+Septic shock,,,1.94,
+Antiviral response,,,1.936,
+Maturation of monocyte-derived dendritic cells,,,1.929,
+Metabolism of terpenoid,,,1.907,
+Development of abdomen,,,1.854,
+Respiratory burst of cells,,,1.758,
+Size of atherosclerotic lesion,,,1.741,
+Aggregation of cells,,,1.737,
+Growth of atherosclerotic lesion,,,1.732,
+Quantity of endocrine cell lines,,,1.732,
+Release of catecholamine,,,1.725,
+Oligodendrogenesis of neural stem cells,,,1.718,
+Activation of splenocytes,,,1.715,
+Extravasation of cells,,,1.709,
+Release of neurotransmitter,,,1.702,
+Migration of keratinocytes,,,1.698,
+Autoimmune neurological disorder,,,1.688,
+Abnormal morphology of muscle,,,1.671,
+Peritoneal disease,,,1.667,
+Outgrowth of neurites,,,1.661,
+Encephalitis,,,1.642,
+Leukopoiesis,,,1.615,
+Sepsis,,,1.611,
+Invasive cancer,,,1.6,
+Hydrolysis of protein,,,1.6,
+Myelitis,,,1.565,
+Release of dopamine,,,1.519,
+Activation of virus,,,1.504,
+Invasion of tissue,,,1.478,
+Function of muscle,,,1.462,
+Angiogenesis in tumor,,,1.452,
+Quantity of tumor,,,1.446,
+Binding of C/EBP binding site,,,1.431,
+Blood pressure,,,1.429,
+Epithelial-mesenchymal transition of adenocarcinoma cell lines,,,1.41,
+Peripheral vascular disease,,,1.398,
+Formation of aortic aneurysm,,,1.387,
+Development of body trunk,,,1.345,
+Degradation of extracellular matrix,,,1.342,
+Quantity of lung cells,,,1.342,
+Injury of kidney,,,1.342,
+Cell proliferation of T lymphocytes,,,1.314,
+Abdominal aortic aneurysm,,,1.314,
+Quantity of cells,,,1.311,
+Immune response of antigen presenting cells,,,1.249,
+Size of infarct,,,1.244,
+Cell death of lung cells,,,1.241,
+Metabolism of polysaccharide,,,1.162,
+Organ Degeneration,,,1.143,
+Disorder of blood pressure,,,1.131,
+Differentiation of peripheral blood monocytes,,,1.109,
+Activation of STAT response element,,,1.103,
+Quantity of PBMCs,,,1.067,
+Formation of abdominal aortic aneurysm,,,1.067,
+Release of cells,,,1.067,
+Retinal vasculopathy,,,1.05,
+Quantity of steroid,,,1.046,
+Apoptosis of apud cells,,,1.045,
+Apoptosis of vascular smooth muscle cells,,,1.026,
+Left ventricular dilation,,,1,
+Growth of epithelial tissue,-1.08,,0.305,
+Quantity of virus,,,-1,
+Osteoclastogenesis of monocytes,,,-1,
+Proteinuria,,,-1.109,
+Interstitial fibrosis,,,-1.109,
+Fibrosis of muscle,,,-1.131,
+Export of molecule,-1.953,,-1.338,
+Differentiation of mesenchymal cells,,,-1.607,
+Synthesis of extracellular matrix,,,-1.982,

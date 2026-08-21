@@ -245,7 +245,8 @@ ns.res$outcome <- colnames(de)[c(10:14)] %>%
                   # and format daterange
                   mutate(Regulation=factor(Regulation, 
                                            levels=c("Up", "None", "Down"),
-                                           labels=c("Survived", "None", "Succumbed")),
+                                           labels=c("Survived", "None", 
+                                                    "Succumbed")),
                          Group=str_extract(coef, "(?<=\\.)[^ -]+"),
                          Group=if_else(Group=="Preresponse", 
                                        "Pre-response", 
@@ -253,6 +254,13 @@ ns.res$outcome <- colnames(de)[c(10:14)] %>%
                          Group=factor(Group, levels=names(stage.cols))) %>%
                   select(Gene, Group, Regulation, lfc, padj, Significant)
 write.csv(ns.res$outcome, "analysis/nanostring-outcome.csv", row.names=FALSE)
+# format and save for IPA
+ns.res$time %>%
+  select(Gene, Outcome, Group, lfc, padj) %>%
+  reshape2::melt(id.vars=c("Gene", "Outcome", "Group")) %>%
+  mutate(Group=interaction(Outcome, Group, variable)) %>%
+  reshape2::dcast(Gene ~ Group, value.var="value") %>%
+  write.csv("analysis/ipa-input-nanostring-time.csv", row.names=FALSE)
 rm(modmat, de)
 
 # LEGENDplex: build model matrix accounting for batch effect
@@ -290,7 +298,8 @@ lp.res$outcome <- colnames(de)[c(10:14)] %>%
                   # and format daterange
                   mutate(Regulation=factor(Regulation, 
                                            levels=c("Up", "None", "Down"),
-                                           labels=c("Survived", "None", "Succumbed")),
+                                           labels=c("Survived", "None", 
+                                                    "Succumbed")),
                          Group=str_extract(coef, "(?<=\\.)[^ -]+"),
                          Group=if_else(Group=="Preresponse", 
                                        "Pre-response", 
@@ -298,6 +307,13 @@ lp.res$outcome <- colnames(de)[c(10:14)] %>%
                          Group=factor(Group, levels=names(stage.cols))) %>%
                   select(Gene, Group, Regulation, lfc, padj, Significant)
 write.csv(lp.res$outcome, "analysis/legendplex-outcome.csv", row.names=FALSE)
+# format and save tables for IPA
+lp.res$time %>%
+  select(Gene, Outcome, Group, lfc, padj) %>%
+  reshape2::melt(id.vars=c("Gene", "Outcome", "Group")) %>%
+  mutate(Group=interaction(Outcome, Group, variable)) %>%
+  reshape2::dcast(Gene ~ Group, value.var="value") %>%
+  write.csv("analysis/ipa-input-legendplex-time.csv", row.names=FALSE)
 rm(modmat, de, grps, ctrs)
 
 ## plot DEGs -------------------------------------------------------------------
@@ -308,7 +324,7 @@ x <- expand.grid(Group=names(stage.cols),
                  Regulation=names(regulation.cols)) %>%
       filter(!(Outcome=="Succumbed" & Group=="Recovered"))
 # Nanostring
-fig.main$a <- ns.res$time %>%
+fig.sup2$a <- ns.res$time %>%
               filter(Significant) %>%
               group_by(Outcome, Group, Regulation) %>%
               summarise(Genes=n(),
@@ -330,7 +346,7 @@ fig.main$a <- ns.res$time %>%
               theme(axis.text.x=element_text(angle=30, hjust=1),
                     legend.position=c(0.22, 0.57))
 # LEGENDplex
-fig.main$b <- lp.res$time %>%
+fig.sup2$b <- lp.res$time %>%
               filter(Significant) %>%
               group_by(Outcome, Group, Regulation) %>%
               summarise(Genes=n(),
@@ -359,7 +375,7 @@ topgenes <- ns.res$time %>%
             group_by(Regulation, Group, Outcome) %>%
             top_n(n=5, wt=abs(lfc)) %>%
             ungroup()
-fig.sup2$a <- ns.res$time %>%
+fig.sup2$c <- ns.res$time %>%
               ggplot(aes(lfc, -log10(padj))) +
               geom_point(aes(col=Regulation, alpha=Significant, size=Regulation)) +
               scale_size_manual(values=c(Up=1, Down=1), na.value=0.5) +
@@ -373,14 +389,14 @@ fig.sup2$a <- ns.res$time %>%
               labs(title="DE mRNAs relative to baseline") +
               guides(alpha="none",
                      color=guide_legend(override.aes=list(size=3))) +
-              theme(legend.position=c(0.9, 0.8))
+              theme(legend.position=c(0.9, 0.7))
 # volcano legendplex
 topgenes <- lp.res$time %>%
             filter(Significant) %>%
             group_by(Regulation, Group, Outcome) %>%
             top_n(n=5, wt=abs(lfc)) %>%
             ungroup()
-fig.sup2$b <- lp.res$time %>%
+fig.sup2$d <- lp.res$time %>%
               ggplot(aes(lfc, -log10(padj))) +
               geom_point(aes(col=Regulation, alpha=Significant, size=Regulation)) +
               scale_size_manual(values=c(Up=1, Down=1), na.value=0.5) +
@@ -394,19 +410,17 @@ fig.sup2$b <- lp.res$time %>%
               labs(title="DE proteins relative to baseline") +
               guides(alpha="none",
                      color=guide_legend(override.aes=list(size=3))) +
-              theme(legend.position=c(0.9, 0.8))
+              theme(legend.position=c(0.9, 0.7))
 
 # outcome volcano: nanostring (late only)
 topgenes <- ns.res$outcome %>%
-            filter(Significant) %>%
-            group_by(Group, Regulation) %>%
-            top_n(n=8, wt=abs(lfc)) %>%
-            ungroup()
-fig.main$c <- ns.res$outcome %>%
+            filter(Significant) 
+fig.main$a <- ns.res$outcome %>%
               filter(Group %in% topgenes$Group) %>%
               ggplot(aes(lfc, -log10(padj))) +
               geom_point(aes(col=Regulation, alpha=Significant, size=Regulation)) +
-              scale_size_manual("Higher expr. in", values=c(Survived=1, Succumbed=1), 
+              scale_size_manual("Higher expr. in", 
+                                values=c(Survived=1, Succumbed=1), 
                                 na.value=0.5) +
               scale_alpha_manual(values=c("TRUE"=0.8, "FALSE"=0.5)) +
               scale_color_manual("Higher expr. in", values=outcome.cols, 
@@ -420,15 +434,13 @@ fig.main$c <- ns.res$outcome %>%
               theme(legend.position=c(0.4, 0.8))
 # outcome volcano: legendplex (late only)
 topgenes <- lp.res$outcome %>%
-            filter(Significant) %>%
-            group_by(Group, Regulation) %>%
-            top_n(n=8, wt=abs(lfc)) %>%
-            ungroup()
-fig.main$d <- lp.res$outcome %>%
+            filter(Significant)
+fig.main$b <- lp.res$outcome %>%
               filter(Group %in% topgenes$Group) %>%
               ggplot(aes(lfc, -log10(padj))) +
               geom_point(aes(col=Regulation, alpha=Significant, size=Regulation)) +
-              scale_size_manual("Higher expr. in", values=c(Survived=1, Succumbed=1), 
+              scale_size_manual("Higher expr. in", 
+                                values=c(Survived=1, Succumbed=1), 
                                 na.value=0.5) +
               scale_alpha_manual(values=c("TRUE"=0.8, "FALSE"=0.5)) +
               scale_color_manual("Higher expr. in", values=outcome.cols, 
@@ -439,7 +451,7 @@ fig.main$d <- lp.res$outcome %>%
                    title="Late protein, survived vs. succumbed") +
               guides(alpha="none",
                      color=guide_legend(override.aes=list(size=3))) +
-              theme(legend.position=c(0.75, 0.7))
+              theme(legend.position=c(0.8, 0.6))
 rm(topgenes)
 
 ## cibersort -------------------------------------------------------------------
@@ -511,18 +523,21 @@ cibx <- unique(pval$Celltype) %>%
             comp <- p %>%
               filter(Group.g1 != "Baseline") %>%
               rstatix::add_y_position(scales="free_y", step.increase=0)
-            plt <- plt + ggpubr::stat_pvalue_manual(data=comp, label="p.adj.signif", 
-                                                    tip.length=0,
-                                                    bracket.nudge.y=increment/2)
+            plt <- plt + 
+                   ggpubr::stat_pvalue_manual(data=comp, label="p.adj.signif", 
+                                              tip.length=0,
+                                              bracket.nudge.y=increment/2)
           }
           
           # if there are baseline differences, add them
           if("Baseline" %in% p$Group.g1) {
             comp <- filter(p, Group.g1=="Baseline")
             comp$y.position <- increment * 1:nrow(comp)
-            comp$y.position <- comp$y.position + max(cibx[cibx$Celltype==i, "Score"])
-            plt <- plt + ggpubr::stat_pvalue_manual(data=comp, label="p.adj.signif", 
-                                                    tip.length=0, color="Outcome.g2")
+            comp$y.position <- comp$y.position + 
+                               max(cibx[cibx$Celltype==i, "Score"])
+            plt <- plt + 
+                   ggpubr::stat_pvalue_manual(data=comp, label="p.adj.signif", 
+                                              tip.length=0, color="Outcome.g2")
           }
           
           # finish formatting the plot
@@ -558,7 +573,7 @@ log.prot <- prot %>%
             left_join(meta, by="ID")
 
 # MPO
-fig.main$e <- log.prot %>%
+fig.main$c <- log.prot %>%
               filter(Analyte=="MPO") %>%
               ggplot(aes(Stage, Concentration)) +
               geom_boxplot(aes(group=interaction(Stage, Outcome), 
@@ -570,8 +585,8 @@ fig.main$e <- log.prot %>%
               theme(axis.text.x=element_text(angle=30, hjust=0.7, vjust=0.8),
                     legend.position=c(0.2, 0.8))
 
-# MPO
-fig.main$f <- log.prot %>%
+# IL-6
+fig.main$d <- log.prot %>%
               filter(Analyte=="IL-6") %>%
               ggplot(aes(Stage, Concentration)) +
               geom_boxplot(aes(group=interaction(Stage, Outcome), 
@@ -586,21 +601,76 @@ fig.main$f <- log.prot %>%
 # clean up
 rm(log.prot)
 
+## pathway analyses ------------------------------------------------------------
+# read in pathway shortlist for plotting
+pathlist <- read.csv("analysis/ipa-shortlist.csv")
+
+# read and format IPA output for both NS and LP
+pathways <- read.csv("analysis/ipa-output-nanostring-time.csv") %>%
+            mutate(Assay="mRNA") %>%
+            select(Name, Assay, ends_with("Late"))
+pathways <- read.csv("analysis/ipa-output-legendplex-time.csv") %>%
+            mutate(Assay="Protein")%>%
+            select(Name, Assay, ends_with("Late")) %>%
+            rbind(pathways) %>%
+            # melt to long format, then extract stage and outcome
+            reshape2::melt(id.vars=c("Name", "Assay"), value.name="zscore") %>%
+            mutate(Outcome=factor(str_extract(variable, "^[A-z]+(?=\\.)"),
+                                  levels=names(outcome.cols)),
+                   Stage=str_extract(variable, "(?<=\\.)[A-z]+$")) %>%
+            # filter to have the pathways from pathlist only
+            right_join(pathlist, by=c("Name", "Assay", "Stage"))
+
+# plot mRNA pathways
+fig.main$e <- pathways %>%
+              filter(Assay=="mRNA") %>%
+              ggplot(aes(zscore, Nickname)) +
+              geom_vline(xintercept=0, linetype=3, col="lightgrey") +
+              geom_line(aes(group=Nickname)) +
+              geom_point(aes(shape=Outcome, fill=Outcome), size=3) +
+              scale_shape_manual(values=outcome.shapes) +
+              scale_fill_manual(values=outcome.cols) +
+              scale_x_continuous("z-score", limits=c(-2, 3)) +
+              labs(y=NULL, fill=NULL, shape=NULL, 
+                   title="Late mRNA, enriched pathways and functions") +
+              theme(legend.position=c(0.8, 0.8))
+
+# plot protein pathways
+fig.sup2$e <- pathways %>%
+              filter(Assay=="Protein") %>%
+              ggplot(aes(zscore, Nickname)) +
+              geom_vline(xintercept=0, linetype=3, col="lightgrey") +
+              geom_line(aes(group=Nickname)) +
+              geom_point(aes(shape=Outcome, fill=Outcome), size=3) +
+              scale_shape_manual(values=outcome.shapes) +
+              scale_fill_manual(values=outcome.cols) +
+              labs(x="z-score", y=NULL, fill=NULL, shape=NULL, 
+                   title="Late protein, enriched pathways and functions") +
+              theme(legend.position=c(0.2, 0.7))
+
+# clean up
+rm(pathways, pathlist)
+
 ## build and save figures ------------------------------------------------------
 # main figure
-cowplot::plot_grid(fig.main$a, fig.main$c, 
-                   fig.main$b, fig.main$d, 
-                   fig.main$e, fig.main$f, 
-                   ncol=2, labels=c("a", "c", "b", "d", "e", "f"))
-ggsave("analysis/figure-main.pdf", units="in", width=7.5, height=10)
+x <- cowplot::plot_grid(fig.main$a, fig.main$b, 
+                   fig.main$c, fig.main$d,
+                   ncol=2, labels=c("a", "b", "c", "d"))
+cowplot::plot_grid(x, fig.main$e, 
+                   ncol=1, labels=c(NA, "e"), rel_heights=c(5, 2))
+ggsave("analysis/figure6.pdf", units="in", width=7.5, height=10)
+rm(x)
 
 # supplemental fig #1
 cowplot::plot_grid(plotlist=fig.sup1, labels=names(fig.sup1), ncol=1)
-ggsave("analysis/figure-sup1.pdf", units="in", width=7.5, height=6)
+ggsave("analysis/supplementary6.pdf", units="in", width=7.5, height=6.5)
 
 # supplemental fig #2
-cowplot::plot_grid(plotlist=fig.sup2, labels=names(fig.sup2), ncol=1)
-ggsave("analysis/figure-sup2.pdf", units="in", width=7.5, height=6)
+x <- cowplot::plot_grid(fig.sup2$a, fig.sup2$b, nrow=1, labels=c("a", "b"))
+cowplot::plot_grid(x, fig.sup2$c, fig.sup2$d, fig.sup2$e,
+                   ncol=1, rel_heights=c(2, 2, 2, 1), 
+                   labels=c(NA, "c", "d", "e"))
+ggsave("analysis/supplementary7.pdf", units="in", width=7.5, height=10)
 
 ## fin! ------------------------------------------------------------------------
 sessionInfo()
