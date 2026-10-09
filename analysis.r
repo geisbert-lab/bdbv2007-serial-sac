@@ -381,7 +381,8 @@ fig.sup2$c <- ns.res$time %>%
               scale_size_manual(values=c(Up=1, Down=1), na.value=0.5) +
               scale_alpha_manual(values=c("TRUE"=0.8, "FALSE"=0.5)) +
               scale_color_manual(values=regulation.cols, na.value="grey80") + 
-              ggrepel::geom_text_repel(data=topgenes, aes(label=Gene), size=2) +
+              ggrepel::geom_text_repel(data=topgenes, aes(label=Gene), 
+                                       size=2, fontface="italic") +
               scale_x_continuous("Fold change (log2)", limits=c(-4, 7), 
                                  breaks=c(-3, 0, 3, 6)) +
               scale_y_continuous("Adjusted p-value (-log10)", limits=c(0, 30)) +
@@ -425,7 +426,8 @@ fig.main$a <- ns.res$outcome %>%
               scale_alpha_manual(values=c("TRUE"=0.8, "FALSE"=0.5)) +
               scale_color_manual("Higher expr. in", values=outcome.cols, 
                                  na.value="grey80") +
-              ggrepel::geom_text_repel(data=topgenes, aes(label=Gene), size=3) +
+              ggrepel::geom_text_repel(data=topgenes, aes(label=Gene), 
+                                       size=3, fontface="italic") +
               labs(x="Fold change (log2)",
                    y="Adjusted p-value (-log10)",
                    title="Late mRNA, survived vs. succumbed") +
